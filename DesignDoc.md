@@ -1,4 +1,4 @@
-EcoTrack — Design Document
+EcoTrack: Personal Carbon & Habit Tracker Project 
 
 Project Description
 EcoTrack is a full stack web application that helps everyday people understand and reduce their personal carbon footprint. Users log the activities they do every day — driving to work, eating a meal, running the heat — and the app turns those logs into a concrete "Daily Footprint" score they can actually act on.
