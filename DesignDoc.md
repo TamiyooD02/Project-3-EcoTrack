@@ -6,12 +6,11 @@ EcoTrack is a full stack web application that helps everyday people understand a
 
 Users can also set monthly reduction goals, like cutting down on meat or taking public transit more often, and track their progress over time.
 
-**Tech Stack:**
+### Tech Stack:
 - Frontend: React (Hooks) with component-specific CSS
 - Backend: Node + Express (ES Modules)
 - Database: MongoDB
 
----
 
 ## User Personas
 
@@ -21,7 +20,6 @@ Users can also set monthly reduction goals, like cutting down on meat or taking 
 
 **Pretti, 27, Environmentalist** – Already aware of her habits and wants to set concrete monthly reduction goals and track her progress over time to hold herself accountable.
 
----
 
 ## User Stories
 
@@ -39,7 +37,6 @@ Users can also set monthly reduction goals, like cutting down on meat or taking 
 3. As a user, I want to adjust the target values of my goals so that I can keep them relevant as my lifestyle changes.
 4. As a user, I want to delete a goal so that I can remove ones that are no longer relevant to my journey.
 
----
 
 ## Design Mockups
 
