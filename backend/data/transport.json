@@ -1,300 +1,2402 @@
-[{"type":"driving","category":"transport","value":331,"unit":"miles","date":"2025-08-17","note":"exact reading"},
-{"type":"bus","category":"transport","value":445,"unit":"hours","date":"2025-08-12","note":"exact reading"},
-{"type":"bus","category":"transport","value":413,"unit":"hours","date":"2025-02-14","note":"daily commute"},
-{"type":"bus","category":"transport","value":57,"unit":"hours","date":"2025-07-06","note":"estimated"},
-{"type":"train","category":"transport","value":13,"unit":"miles","date":"2025-10-03","note":"daily commute"},
-{"type":"bus","category":"transport","value":68,"unit":"miles","date":"2025-11-10","note":"estimated"},
-{"type":"bus","category":"transport","value":193,"unit":"hours","date":"2025-09-19","note":"exact reading"},
-{"type":"bus","category":"transport","value":467,"unit":"miles","date":"2025-12-24","note":"daily commute"},
-{"type":"bus","category":"transport","value":168,"unit":"hours","date":"2025-12-31","note":"estimated"},
-{"type":"train","category":"transport","value":249,"unit":"miles","date":"2025-09-15","note":"estimated"},
-{"type":"bus","category":"transport","value":174,"unit":"hours","date":"2025-11-27","note":"exact reading"},
-{"type":"train","category":"transport","value":240,"unit":"hours","date":"2025-05-08","note":"daily commute"},
-{"type":"flying","category":"transport","value":331,"unit":"miles","date":"2025-02-24","note":"logged from app"},
-{"type":"bus","category":"transport","value":353,"unit":"hours","date":"2025-05-02","note":"logged from app"},
-{"type":"bus","category":"transport","value":339,"unit":"miles","date":"2025-04-25","note":"exact reading"},
-{"type":"driving","category":"transport","value":62,"unit":"hours","date":"2025-07-18","note":"exact reading"},
-{"type":"driving","category":"transport","value":347,"unit":"miles","date":"2025-05-20","note":"exact reading"},
-{"type":"flying","category":"transport","value":454,"unit":"miles","date":"2025-10-17","note":"exact reading"},
-{"type":"train","category":"transport","value":253,"unit":"miles","date":"2025-08-17","note":"daily commute"},
-{"type":"driving","category":"transport","value":186,"unit":"miles","date":"2025-11-22","note":"daily commute"},
-{"type":"flying","category":"transport","value":109,"unit":"miles","date":"2026-03-13","note":"estimated"},
-{"type":"flying","category":"transport","value":394,"unit":"hours","date":"2025-03-31","note":"logged from app"},
-{"type":"train","category":"transport","value":370,"unit":"hours","date":"2025-08-07","note":"estimated"},
-{"type":"driving","category":"transport","value":88,"unit":"miles","date":"2025-03-26","note":"exact reading"},
-{"type":"flying","category":"transport","value":78,"unit":"hours","date":"2025-03-14","note":"exact reading"},
-{"type":"driving","category":"transport","value":231,"unit":"hours","date":"2026-02-28","note":"daily commute"},
-{"type":"driving","category":"transport","value":64,"unit":"miles","date":"2026-01-07","note":"exact reading"},
-{"type":"bus","category":"transport","value":327,"unit":"miles","date":"2025-11-16","note":"estimated"},
-{"type":"driving","category":"transport","value":42,"unit":"miles","date":"2025-08-08","note":"logged from app"},
-{"type":"flying","category":"transport","value":79,"unit":"miles","date":"2025-12-23","note":"daily commute"},
-{"type":"flying","category":"transport","value":54,"unit":"miles","date":"2025-03-05","note":"logged from app"},
-{"type":"bus","category":"transport","value":75,"unit":"hours","date":"2025-10-11","note":"estimated"},
-{"type":"train","category":"transport","value":35,"unit":"hours","date":"2025-09-13","note":"estimated"},
-{"type":"train","category":"transport","value":442,"unit":"miles","date":"2025-09-09","note":"estimated"},
-{"type":"train","category":"transport","value":196,"unit":"miles","date":"2025-09-03","note":"estimated"},
-{"type":"driving","category":"transport","value":8,"unit":"miles","date":"2025-03-28","note":"exact reading"},
-{"type":"flying","category":"transport","value":336,"unit":"miles","date":"2025-10-06","note":"estimated"},
-{"type":"driving","category":"transport","value":353,"unit":"miles","date":"2025-05-07","note":"daily commute"},
-{"type":"bus","category":"transport","value":243,"unit":"miles","date":"2025-01-02","note":"estimated"},
-{"type":"flying","category":"transport","value":386,"unit":"hours","date":"2025-09-14","note":"daily commute"},
-{"type":"flying","category":"transport","value":38,"unit":"miles","date":"2025-07-24","note":"estimated"},
-{"type":"train","category":"transport","value":218,"unit":"miles","date":"2025-10-03","note":"exact reading"},
-{"type":"train","category":"transport","value":10,"unit":"hours","date":"2025-07-25","note":"logged from app"},
-{"type":"driving","category":"transport","value":87,"unit":"hours","date":"2025-12-05","note":"exact reading"},
-{"type":"flying","category":"transport","value":179,"unit":"miles","date":"2025-10-11","note":"daily commute"},
-{"type":"train","category":"transport","value":56,"unit":"hours","date":"2026-01-10","note":"estimated"},
-{"type":"flying","category":"transport","value":149,"unit":"miles","date":"2025-10-31","note":"estimated"},
-{"type":"bus","category":"transport","value":76,"unit":"hours","date":"2025-07-26","note":"logged from app"},
-{"type":"driving","category":"transport","value":347,"unit":"hours","date":"2026-03-12","note":"exact reading"},
-{"type":"bus","category":"transport","value":27,"unit":"miles","date":"2025-05-01","note":"estimated"},
-{"type":"flying","category":"transport","value":416,"unit":"hours","date":"2026-02-26","note":"daily commute"},
-{"type":"train","category":"transport","value":67,"unit":"hours","date":"2025-08-27","note":"exact reading"},
-{"type":"train","category":"transport","value":34,"unit":"hours","date":"2026-01-24","note":"daily commute"},
-{"type":"bus","category":"transport","value":445,"unit":"miles","date":"2025-03-23","note":"logged from app"},
-{"type":"train","category":"transport","value":349,"unit":"miles","date":"2025-03-04","note":"daily commute"},
-{"type":"flying","category":"transport","value":341,"unit":"hours","date":"2025-01-23","note":"logged from app"},
-{"type":"bus","category":"transport","value":181,"unit":"hours","date":"2025-06-11","note":"exact reading"},
-{"type":"driving","category":"transport","value":119,"unit":"miles","date":"2025-09-30","note":"estimated"},
-{"type":"train","category":"transport","value":206,"unit":"hours","date":"2025-06-07","note":"estimated"},
-{"type":"train","category":"transport","value":413,"unit":"miles","date":"2025-09-17","note":"exact reading"},
-{"type":"driving","category":"transport","value":47,"unit":"hours","date":"2025-08-06","note":"exact reading"},
-{"type":"bus","category":"transport","value":157,"unit":"miles","date":"2025-11-12","note":"logged from app"},
-{"type":"flying","category":"transport","value":54,"unit":"miles","date":"2025-11-01","note":"estimated"},
-{"type":"train","category":"transport","value":305,"unit":"hours","date":"2025-02-20","note":"estimated"},
-{"type":"driving","category":"transport","value":424,"unit":"miles","date":"2025-10-10","note":"logged from app"},
-{"type":"bus","category":"transport","value":167,"unit":"miles","date":"2026-03-13","note":"estimated"},
-{"type":"flying","category":"transport","value":234,"unit":"hours","date":"2025-04-25","note":"estimated"},
-{"type":"bus","category":"transport","value":441,"unit":"hours","date":"2026-02-13","note":"daily commute"},
-{"type":"driving","category":"transport","value":224,"unit":"miles","date":"2025-10-02","note":"logged from app"},
-{"type":"driving","category":"transport","value":325,"unit":"miles","date":"2025-10-20","note":"exact reading"},
-{"type":"bus","category":"transport","value":229,"unit":"miles","date":"2026-03-23","note":"estimated"},
-{"type":"flying","category":"transport","value":110,"unit":"hours","date":"2025-05-02","note":"exact reading"},
-{"type":"train","category":"transport","value":311,"unit":"hours","date":"2025-05-18","note":"logged from app"},
-{"type":"driving","category":"transport","value":173,"unit":"hours","date":"2025-10-25","note":"estimated"},
-{"type":"bus","category":"transport","value":201,"unit":"hours","date":"2025-09-18","note":"logged from app"},
-{"type":"driving","category":"transport","value":59,"unit":"hours","date":"2025-09-09","note":"estimated"},
-{"type":"driving","category":"transport","value":93,"unit":"hours","date":"2026-03-24","note":"logged from app"},
-{"type":"train","category":"transport","value":117,"unit":"miles","date":"2025-06-16","note":"exact reading"},
-{"type":"train","category":"transport","value":277,"unit":"hours","date":"2026-01-22","note":"daily commute"},
-{"type":"driving","category":"transport","value":480,"unit":"hours","date":"2026-01-28","note":"estimated"},
-{"type":"driving","category":"transport","value":277,"unit":"miles","date":"2025-08-25","note":"daily commute"},
-{"type":"train","category":"transport","value":495,"unit":"miles","date":"2025-07-29","note":"exact reading"},
-{"type":"bus","category":"transport","value":44,"unit":"hours","date":"2025-07-19","note":"daily commute"},
-{"type":"flying","category":"transport","value":183,"unit":"miles","date":"2025-03-10","note":"logged from app"},
-{"type":"bus","category":"transport","value":394,"unit":"miles","date":"2025-01-31","note":"logged from app"},
-{"type":"bus","category":"transport","value":29,"unit":"hours","date":"2025-09-22","note":"estimated"},
-{"type":"train","category":"transport","value":94,"unit":"miles","date":"2025-12-26","note":"exact reading"},
-{"type":"bus","category":"transport","value":400,"unit":"hours","date":"2025-11-19","note":"exact reading"},
-{"type":"bus","category":"transport","value":386,"unit":"hours","date":"2026-02-02","note":"logged from app"},
-{"type":"train","category":"transport","value":140,"unit":"hours","date":"2025-02-10","note":"exact reading"},
-{"type":"flying","category":"transport","value":260,"unit":"hours","date":"2025-02-08","note":"daily commute"},
-{"type":"bus","category":"transport","value":254,"unit":"hours","date":"2025-06-10","note":"exact reading"},
-{"type":"flying","category":"transport","value":423,"unit":"hours","date":"2025-01-02","note":"logged from app"},
-{"type":"flying","category":"transport","value":44,"unit":"miles","date":"2025-11-25","note":"estimated"},
-{"type":"train","category":"transport","value":245,"unit":"hours","date":"2025-12-25","note":"exact reading"},
-{"type":"flying","category":"transport","value":385,"unit":"hours","date":"2025-04-22","note":"exact reading"},
-{"type":"train","category":"transport","value":228,"unit":"hours","date":"2025-03-27","note":"estimated"},
-{"type":"bus","category":"transport","value":17,"unit":"hours","date":"2025-02-01","note":"exact reading"},
-{"type":"bus","category":"transport","value":10,"unit":"miles","date":"2025-12-17","note":"estimated"},
-{"type":"driving","category":"transport","value":51,"unit":"hours","date":"2025-06-17","note":"daily commute"},
-{"type":"bus","category":"transport","value":40,"unit":"hours","date":"2025-07-02","note":"logged from app"},
-{"type":"driving","category":"transport","value":495,"unit":"hours","date":"2025-03-13","note":"exact reading"},
-{"type":"driving","category":"transport","value":196,"unit":"miles","date":"2025-12-18","note":"daily commute"},
-{"type":"driving","category":"transport","value":363,"unit":"miles","date":"2025-07-02","note":"logged from app"},
-{"type":"flying","category":"transport","value":295,"unit":"miles","date":"2026-03-21","note":"exact reading"},
-{"type":"bus","category":"transport","value":279,"unit":"miles","date":"2026-02-03","note":"exact reading"},
-{"type":"bus","category":"transport","value":147,"unit":"miles","date":"2025-06-19","note":"estimated"},
-{"type":"train","category":"transport","value":276,"unit":"miles","date":"2025-02-18","note":"estimated"},
-{"type":"train","category":"transport","value":186,"unit":"miles","date":"2025-02-04","note":"estimated"},
-{"type":"bus","category":"transport","value":11,"unit":"miles","date":"2025-03-20","note":"logged from app"},
-{"type":"driving","category":"transport","value":284,"unit":"hours","date":"2025-12-20","note":"logged from app"},
-{"type":"bus","category":"transport","value":444,"unit":"hours","date":"2025-06-15","note":"logged from app"},
-{"type":"driving","category":"transport","value":13,"unit":"miles","date":"2025-08-02","note":"estimated"},
-{"type":"driving","category":"transport","value":372,"unit":"miles","date":"2025-12-09","note":"daily commute"},
-{"type":"train","category":"transport","value":204,"unit":"hours","date":"2025-12-30","note":"daily commute"},
-{"type":"driving","category":"transport","value":137,"unit":"miles","date":"2025-04-11","note":"logged from app"},
-{"type":"driving","category":"transport","value":348,"unit":"miles","date":"2025-07-09","note":"logged from app"},
-{"type":"train","category":"transport","value":206,"unit":"miles","date":"2025-07-13","note":"exact reading"},
-{"type":"driving","category":"transport","value":129,"unit":"hours","date":"2025-01-05","note":"exact reading"},
-{"type":"train","category":"transport","value":489,"unit":"miles","date":"2025-05-10","note":"daily commute"},
-{"type":"bus","category":"transport","value":116,"unit":"hours","date":"2026-01-02","note":"daily commute"},
-{"type":"bus","category":"transport","value":54,"unit":"miles","date":"2025-11-29","note":"exact reading"},
-{"type":"driving","category":"transport","value":166,"unit":"hours","date":"2025-05-15","note":"exact reading"},
-{"type":"bus","category":"transport","value":336,"unit":"hours","date":"2026-03-13","note":"logged from app"},
-{"type":"bus","category":"transport","value":286,"unit":"hours","date":"2025-11-11","note":"daily commute"},
-{"type":"train","category":"transport","value":266,"unit":"miles","date":"2025-03-23","note":"exact reading"},
-{"type":"train","category":"transport","value":236,"unit":"hours","date":"2025-01-14","note":"exact reading"},
-{"type":"flying","category":"transport","value":97,"unit":"hours","date":"2025-03-02","note":"logged from app"},
-{"type":"driving","category":"transport","value":261,"unit":"miles","date":"2026-02-04","note":"daily commute"},
-{"type":"train","category":"transport","value":128,"unit":"hours","date":"2025-02-28","note":"estimated"},
-{"type":"driving","category":"transport","value":212,"unit":"miles","date":"2025-02-21","note":"exact reading"},
-{"type":"flying","category":"transport","value":382,"unit":"miles","date":"2025-03-17","note":"daily commute"},
-{"type":"driving","category":"transport","value":451,"unit":"hours","date":"2025-02-17","note":"logged from app"},
-{"type":"bus","category":"transport","value":137,"unit":"hours","date":"2025-09-10","note":"estimated"},
-{"type":"driving","category":"transport","value":95,"unit":"miles","date":"2025-10-27","note":"logged from app"},
-{"type":"train","category":"transport","value":426,"unit":"miles","date":"2025-02-19","note":"estimated"},
-{"type":"train","category":"transport","value":419,"unit":"miles","date":"2026-02-10","note":"estimated"},
-{"type":"driving","category":"transport","value":4,"unit":"hours","date":"2025-08-28","note":"daily commute"},
-{"type":"train","category":"transport","value":302,"unit":"miles","date":"2025-11-25","note":"daily commute"},
-{"type":"driving","category":"transport","value":95,"unit":"hours","date":"2026-01-17","note":"daily commute"},
-{"type":"flying","category":"transport","value":156,"unit":"hours","date":"2025-03-29","note":"logged from app"},
-{"type":"bus","category":"transport","value":61,"unit":"miles","date":"2025-11-25","note":"daily commute"},
-{"type":"train","category":"transport","value":265,"unit":"hours","date":"2026-03-21","note":"exact reading"},
-{"type":"flying","category":"transport","value":408,"unit":"miles","date":"2025-10-06","note":"daily commute"},
-{"type":"driving","category":"transport","value":260,"unit":"miles","date":"2025-04-10","note":"daily commute"},
-{"type":"bus","category":"transport","value":114,"unit":"hours","date":"2025-11-11","note":"estimated"},
-{"type":"flying","category":"transport","value":373,"unit":"miles","date":"2025-09-24","note":"daily commute"},
-{"type":"flying","category":"transport","value":85,"unit":"hours","date":"2025-04-18","note":"estimated"},
-{"type":"train","category":"transport","value":109,"unit":"miles","date":"2025-03-11","note":"exact reading"},
-{"type":"flying","category":"transport","value":375,"unit":"hours","date":"2025-07-24","note":"daily commute"},
-{"type":"driving","category":"transport","value":463,"unit":"hours","date":"2026-03-22","note":"exact reading"},
-{"type":"bus","category":"transport","value":87,"unit":"miles","date":"2026-02-27","note":"estimated"},
-{"type":"flying","category":"transport","value":493,"unit":"miles","date":"2026-03-03","note":"estimated"},
-{"type":"bus","category":"transport","value":414,"unit":"miles","date":"2025-07-08","note":"daily commute"},
-{"type":"driving","category":"transport","value":134,"unit":"miles","date":"2025-06-28","note":"estimated"},
-{"type":"flying","category":"transport","value":72,"unit":"miles","date":"2026-01-17","note":"logged from app"},
-{"type":"train","category":"transport","value":497,"unit":"hours","date":"2025-12-28","note":"estimated"},
-{"type":"driving","category":"transport","value":22,"unit":"hours","date":"2026-02-10","note":"logged from app"},
-{"type":"flying","category":"transport","value":172,"unit":"hours","date":"2025-11-14","note":"logged from app"},
-{"type":"driving","category":"transport","value":2,"unit":"hours","date":"2025-11-27","note":"logged from app"},
-{"type":"train","category":"transport","value":420,"unit":"miles","date":"2026-02-19","note":"exact reading"},
-{"type":"flying","category":"transport","value":67,"unit":"hours","date":"2025-10-08","note":"exact reading"},
-{"type":"flying","category":"transport","value":73,"unit":"miles","date":"2026-01-17","note":"exact reading"},
-{"type":"driving","category":"transport","value":229,"unit":"miles","date":"2026-03-13","note":"logged from app"},
-{"type":"bus","category":"transport","value":215,"unit":"miles","date":"2025-04-28","note":"estimated"},
-{"type":"train","category":"transport","value":276,"unit":"hours","date":"2026-03-21","note":"estimated"},
-{"type":"driving","category":"transport","value":486,"unit":"miles","date":"2025-06-22","note":"estimated"},
-{"type":"flying","category":"transport","value":38,"unit":"miles","date":"2025-07-04","note":"exact reading"},
-{"type":"driving","category":"transport","value":17,"unit":"miles","date":"2025-04-28","note":"estimated"},
-{"type":"driving","category":"transport","value":100,"unit":"hours","date":"2026-02-26","note":"exact reading"},
-{"type":"bus","category":"transport","value":376,"unit":"hours","date":"2025-10-01","note":"daily commute"},
-{"type":"driving","category":"transport","value":67,"unit":"miles","date":"2026-01-06","note":"exact reading"},
-{"type":"bus","category":"transport","value":66,"unit":"hours","date":"2025-01-21","note":"daily commute"},
-{"type":"train","category":"transport","value":183,"unit":"hours","date":"2025-12-05","note":"daily commute"},
-{"type":"flying","category":"transport","value":224,"unit":"hours","date":"2026-01-10","note":"exact reading"},
-{"type":"train","category":"transport","value":44,"unit":"miles","date":"2025-04-15","note":"logged from app"},
-{"type":"flying","category":"transport","value":343,"unit":"miles","date":"2025-12-19","note":"estimated"},
-{"type":"train","category":"transport","value":160,"unit":"hours","date":"2025-08-26","note":"exact reading"},
-{"type":"train","category":"transport","value":375,"unit":"hours","date":"2025-07-10","note":"logged from app"},
-{"type":"driving","category":"transport","value":244,"unit":"miles","date":"2026-03-22","note":"logged from app"},
-{"type":"train","category":"transport","value":66,"unit":"hours","date":"2025-08-24","note":"daily commute"},
-{"type":"flying","category":"transport","value":346,"unit":"miles","date":"2026-01-19","note":"estimated"},
-{"type":"driving","category":"transport","value":405,"unit":"miles","date":"2025-07-30","note":"daily commute"},
-{"type":"train","category":"transport","value":442,"unit":"hours","date":"2026-02-19","note":"logged from app"},
-{"type":"train","category":"transport","value":305,"unit":"hours","date":"2026-03-11","note":"estimated"},
-{"type":"bus","category":"transport","value":140,"unit":"hours","date":"2025-08-31","note":"estimated"},
-{"type":"driving","category":"transport","value":400,"unit":"hours","date":"2025-06-22","note":"logged from app"},
-{"type":"train","category":"transport","value":168,"unit":"miles","date":"2025-11-02","note":"exact reading"},
-{"type":"flying","category":"transport","value":74,"unit":"miles","date":"2025-02-14","note":"daily commute"},
-{"type":"bus","category":"transport","value":314,"unit":"miles","date":"2025-03-30","note":"daily commute"},
-{"type":"train","category":"transport","value":132,"unit":"hours","date":"2025-05-02","note":"exact reading"},
-{"type":"bus","category":"transport","value":365,"unit":"hours","date":"2025-08-06","note":"exact reading"},
-{"type":"driving","category":"transport","value":14,"unit":"miles","date":"2025-04-15","note":"daily commute"},
-{"type":"train","category":"transport","value":70,"unit":"miles","date":"2025-01-24","note":"estimated"},
-{"type":"train","category":"transport","value":254,"unit":"miles","date":"2025-01-23","note":"logged from app"},
-{"type":"train","category":"transport","value":356,"unit":"miles","date":"2025-03-31","note":"exact reading"},
-{"type":"bus","category":"transport","value":482,"unit":"miles","date":"2025-05-28","note":"exact reading"},
-{"type":"driving","category":"transport","value":345,"unit":"miles","date":"2026-01-26","note":"exact reading"},
-{"type":"train","category":"transport","value":227,"unit":"miles","date":"2025-05-04","note":"estimated"},
-{"type":"driving","category":"transport","value":439,"unit":"miles","date":"2026-02-09","note":"exact reading"},
-{"type":"train","category":"transport","value":310,"unit":"miles","date":"2026-01-26","note":"exact reading"},
-{"type":"flying","category":"transport","value":323,"unit":"miles","date":"2025-11-09","note":"estimated"},
-{"type":"train","category":"transport","value":149,"unit":"hours","date":"2025-05-17","note":"daily commute"},
-{"type":"train","category":"transport","value":303,"unit":"hours","date":"2025-11-04","note":"daily commute"},
-{"type":"driving","category":"transport","value":191,"unit":"hours","date":"2025-03-10","note":"daily commute"},
-{"type":"driving","category":"transport","value":343,"unit":"hours","date":"2025-01-11","note":"daily commute"},
-{"type":"bus","category":"transport","value":59,"unit":"miles","date":"2025-10-16","note":"logged from app"},
-{"type":"bus","category":"transport","value":79,"unit":"miles","date":"2025-01-21","note":"logged from app"},
-{"type":"flying","category":"transport","value":232,"unit":"miles","date":"2025-12-28","note":"daily commute"},
-{"type":"bus","category":"transport","value":112,"unit":"hours","date":"2025-03-15","note":"estimated"},
-{"type":"driving","category":"transport","value":70,"unit":"miles","date":"2026-03-02","note":"daily commute"},
-{"type":"driving","category":"transport","value":284,"unit":"miles","date":"2026-02-26","note":"logged from app"},
-{"type":"driving","category":"transport","value":174,"unit":"hours","date":"2026-02-23","note":"logged from app"},
-{"type":"driving","category":"transport","value":201,"unit":"hours","date":"2025-08-11","note":"estimated"},
-{"type":"flying","category":"transport","value":18,"unit":"hours","date":"2026-02-07","note":"daily commute"},
-{"type":"bus","category":"transport","value":476,"unit":"miles","date":"2025-12-14","note":"daily commute"},
-{"type":"bus","category":"transport","value":348,"unit":"hours","date":"2025-02-19","note":"logged from app"},
-{"type":"flying","category":"transport","value":298,"unit":"miles","date":"2025-07-24","note":"daily commute"},
-{"type":"train","category":"transport","value":195,"unit":"miles","date":"2025-05-05","note":"daily commute"},
-{"type":"train","category":"transport","value":216,"unit":"miles","date":"2026-01-15","note":"exact reading"},
-{"type":"flying","category":"transport","value":426,"unit":"miles","date":"2025-04-26","note":"estimated"},
-{"type":"driving","category":"transport","value":252,"unit":"hours","date":"2026-03-14","note":"exact reading"},
-{"type":"flying","category":"transport","value":218,"unit":"hours","date":"2026-03-07","note":"daily commute"},
-{"type":"bus","category":"transport","value":488,"unit":"miles","date":"2025-11-21","note":"estimated"},
-{"type":"driving","category":"transport","value":384,"unit":"hours","date":"2026-02-12","note":"estimated"},
-{"type":"driving","category":"transport","value":458,"unit":"hours","date":"2025-02-24","note":"estimated"},
-{"type":"bus","category":"transport","value":181,"unit":"hours","date":"2025-01-02","note":"daily commute"},
-{"type":"driving","category":"transport","value":375,"unit":"hours","date":"2025-03-18","note":"daily commute"},
-{"type":"flying","category":"transport","value":189,"unit":"hours","date":"2025-05-14","note":"daily commute"},
-{"type":"flying","category":"transport","value":447,"unit":"miles","date":"2025-05-06","note":"daily commute"},
-{"type":"flying","category":"transport","value":315,"unit":"hours","date":"2025-08-18","note":"daily commute"},
-{"type":"bus","category":"transport","value":30,"unit":"miles","date":"2025-02-05","note":"exact reading"},
-{"type":"train","category":"transport","value":341,"unit":"hours","date":"2025-08-12","note":"estimated"},
-{"type":"flying","category":"transport","value":398,"unit":"hours","date":"2025-02-16","note":"exact reading"},
-{"type":"bus","category":"transport","value":317,"unit":"hours","date":"2025-04-11","note":"exact reading"},
-{"type":"bus","category":"transport","value":260,"unit":"miles","date":"2025-07-17","note":"estimated"},
-{"type":"bus","category":"transport","value":155,"unit":"hours","date":"2025-06-15","note":"exact reading"},
-{"type":"bus","category":"transport","value":235,"unit":"hours","date":"2025-02-28","note":"exact reading"},
-{"type":"driving","category":"transport","value":221,"unit":"miles","date":"2025-03-25","note":"estimated"},
-{"type":"flying","category":"transport","value":168,"unit":"miles","date":"2025-03-14","note":"exact reading"},
-{"type":"bus","category":"transport","value":286,"unit":"hours","date":"2025-12-03","note":"estimated"},
-{"type":"train","category":"transport","value":408,"unit":"miles","date":"2025-02-18","note":"logged from app"},
-{"type":"train","category":"transport","value":132,"unit":"miles","date":"2025-02-04","note":"daily commute"},
-{"type":"driving","category":"transport","value":388,"unit":"miles","date":"2025-10-15","note":"daily commute"},
-{"type":"train","category":"transport","value":154,"unit":"hours","date":"2025-10-09","note":"daily commute"},
-{"type":"flying","category":"transport","value":309,"unit":"hours","date":"2026-03-19","note":"daily commute"},
-{"type":"driving","category":"transport","value":481,"unit":"miles","date":"2025-01-21","note":"estimated"},
-{"type":"driving","category":"transport","value":272,"unit":"hours","date":"2025-12-28","note":"logged from app"},
-{"type":"flying","category":"transport","value":484,"unit":"hours","date":"2025-05-19","note":"logged from app"},
-{"type":"driving","category":"transport","value":352,"unit":"hours","date":"2025-03-10","note":"daily commute"},
-{"type":"driving","category":"transport","value":131,"unit":"hours","date":"2025-02-04","note":"logged from app"},
-{"type":"train","category":"transport","value":33,"unit":"hours","date":"2025-05-18","note":"exact reading"},
-{"type":"bus","category":"transport","value":193,"unit":"miles","date":"2025-07-04","note":"logged from app"},
-{"type":"flying","category":"transport","value":254,"unit":"hours","date":"2025-10-31","note":"estimated"},
-{"type":"driving","category":"transport","value":360,"unit":"hours","date":"2025-06-27","note":"estimated"},
-{"type":"driving","category":"transport","value":267,"unit":"miles","date":"2025-05-23","note":"daily commute"},
-{"type":"driving","category":"transport","value":205,"unit":"miles","date":"2025-05-08","note":"estimated"},
-{"type":"driving","category":"transport","value":168,"unit":"hours","date":"2025-07-05","note":"daily commute"},
-{"type":"bus","category":"transport","value":313,"unit":"hours","date":"2025-04-01","note":"exact reading"},
-{"type":"train","category":"transport","value":309,"unit":"hours","date":"2025-09-08","note":"exact reading"},
-{"type":"driving","category":"transport","value":10,"unit":"miles","date":"2025-06-20","note":"estimated"},
-{"type":"bus","category":"transport","value":86,"unit":"hours","date":"2025-04-16","note":"daily commute"},
-{"type":"train","category":"transport","value":162,"unit":"miles","date":"2025-03-01","note":"daily commute"},
-{"type":"driving","category":"transport","value":432,"unit":"miles","date":"2026-03-09","note":"exact reading"},
-{"type":"train","category":"transport","value":152,"unit":"hours","date":"2026-02-09","note":"exact reading"},
-{"type":"flying","category":"transport","value":486,"unit":"hours","date":"2025-07-12","note":"estimated"},
-{"type":"flying","category":"transport","value":289,"unit":"miles","date":"2026-02-12","note":"logged from app"},
-{"type":"train","category":"transport","value":85,"unit":"hours","date":"2025-11-09","note":"daily commute"},
-{"type":"bus","category":"transport","value":421,"unit":"miles","date":"2025-08-28","note":"estimated"},
-{"type":"train","category":"transport","value":442,"unit":"miles","date":"2025-08-21","note":"exact reading"},
-{"type":"bus","category":"transport","value":328,"unit":"miles","date":"2026-03-21","note":"estimated"},
-{"type":"driving","category":"transport","value":201,"unit":"miles","date":"2025-10-12","note":"exact reading"},
-{"type":"train","category":"transport","value":17,"unit":"hours","date":"2025-08-31","note":"logged from app"},
-{"type":"driving","category":"transport","value":482,"unit":"hours","date":"2025-10-07","note":"exact reading"},
-{"type":"bus","category":"transport","value":246,"unit":"miles","date":"2025-09-22","note":"logged from app"},
-{"type":"train","category":"transport","value":271,"unit":"hours","date":"2025-01-13","note":"logged from app"},
-{"type":"flying","category":"transport","value":200,"unit":"hours","date":"2025-03-04","note":"exact reading"},
-{"type":"driving","category":"transport","value":127,"unit":"miles","date":"2025-04-11","note":"logged from app"},
-{"type":"train","category":"transport","value":419,"unit":"miles","date":"2025-09-14","note":"daily commute"},
-{"type":"flying","category":"transport","value":65,"unit":"miles","date":"2025-10-12","note":"daily commute"},
-{"type":"flying","category":"transport","value":431,"unit":"miles","date":"2025-12-16","note":"logged from app"},
-{"type":"driving","category":"transport","value":141,"unit":"miles","date":"2025-01-02","note":"daily commute"},
-{"type":"train","category":"transport","value":360,"unit":"miles","date":"2026-01-10","note":"logged from app"},
-{"type":"driving","category":"transport","value":321,"unit":"hours","date":"2025-09-13","note":"logged from app"},
-{"type":"driving","category":"transport","value":79,"unit":"miles","date":"2025-04-20","note":"daily commute"},
-{"type":"train","category":"transport","value":276,"unit":"hours","date":"2025-09-07","note":"estimated"},
-{"type":"bus","category":"transport","value":227,"unit":"miles","date":"2026-02-23","note":"estimated"},
-{"type":"bus","category":"transport","value":313,"unit":"hours","date":"2025-12-30","note":"exact reading"},
-{"type":"train","category":"transport","value":51,"unit":"hours","date":"2025-12-28","note":"daily commute"},
-{"type":"bus","category":"transport","value":25,"unit":"hours","date":"2025-08-13","note":"daily commute"},
-{"type":"train","category":"transport","value":309,"unit":"miles","date":"2025-06-11","note":"exact reading"},
-{"type":"driving","category":"transport","value":305,"unit":"miles","date":"2025-09-02","note":"daily commute"},
-{"type":"bus","category":"transport","value":185,"unit":"miles","date":"2025-11-17","note":"estimated"},
-{"type":"bus","category":"transport","value":75,"unit":"hours","date":"2026-01-17","note":"logged from app"},
-{"type":"flying","category":"transport","value":93,"unit":"miles","date":"2026-01-29","note":"estimated"},
-{"type":"flying","category":"transport","value":431,"unit":"hours","date":"2026-01-21","note":"estimated"},
-{"type":"driving","category":"transport","value":294,"unit":"hours","date":"2025-11-03","note":"exact reading"},
-{"type":"flying","category":"transport","value":30,"unit":"hours","date":"2025-04-24","note":"exact reading"},
-{"type":"bus","category":"transport","value":32,"unit":"miles","date":"2025-05-12","note":"logged from app"},
-{"type":"flying","category":"transport","value":327,"unit":"hours","date":"2025-02-10","note":"estimated"}]
+[
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 331,
+    "unit": "miles",
+    "date": "2025-08-17",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 445,
+    "unit": "hours",
+    "date": "2025-08-12",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 413,
+    "unit": "hours",
+    "date": "2025-02-14",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 57,
+    "unit": "hours",
+    "date": "2025-07-06",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 13,
+    "unit": "miles",
+    "date": "2025-10-03",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 68,
+    "unit": "miles",
+    "date": "2025-11-10",
+    "note": "estimated"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 193,
+    "unit": "hours",
+    "date": "2025-09-19",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 467,
+    "unit": "miles",
+    "date": "2025-12-24",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 168,
+    "unit": "hours",
+    "date": "2025-12-31",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 249,
+    "unit": "miles",
+    "date": "2025-09-15",
+    "note": "estimated"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 174,
+    "unit": "hours",
+    "date": "2025-11-27",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 240,
+    "unit": "hours",
+    "date": "2025-05-08",
+    "note": "daily commute"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 331,
+    "unit": "miles",
+    "date": "2025-02-24",
+    "note": "logged from app"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 353,
+    "unit": "hours",
+    "date": "2025-05-02",
+    "note": "logged from app"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 339,
+    "unit": "miles",
+    "date": "2025-04-25",
+    "note": "exact reading"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 62,
+    "unit": "hours",
+    "date": "2025-07-18",
+    "note": "exact reading"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 347,
+    "unit": "miles",
+    "date": "2025-05-20",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 454,
+    "unit": "miles",
+    "date": "2025-10-17",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 253,
+    "unit": "miles",
+    "date": "2025-08-17",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 186,
+    "unit": "miles",
+    "date": "2025-11-22",
+    "note": "daily commute"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 109,
+    "unit": "miles",
+    "date": "2026-03-13",
+    "note": "estimated"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 394,
+    "unit": "hours",
+    "date": "2025-03-31",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 370,
+    "unit": "hours",
+    "date": "2025-08-07",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 88,
+    "unit": "miles",
+    "date": "2025-03-26",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 78,
+    "unit": "hours",
+    "date": "2025-03-14",
+    "note": "exact reading"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 231,
+    "unit": "hours",
+    "date": "2026-02-28",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 64,
+    "unit": "miles",
+    "date": "2026-01-07",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 327,
+    "unit": "miles",
+    "date": "2025-11-16",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 42,
+    "unit": "miles",
+    "date": "2025-08-08",
+    "note": "logged from app"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 79,
+    "unit": "miles",
+    "date": "2025-12-23",
+    "note": "daily commute"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 54,
+    "unit": "miles",
+    "date": "2025-03-05",
+    "note": "logged from app"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 75,
+    "unit": "hours",
+    "date": "2025-10-11",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 35,
+    "unit": "hours",
+    "date": "2025-09-13",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 442,
+    "unit": "miles",
+    "date": "2025-09-09",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 196,
+    "unit": "miles",
+    "date": "2025-09-03",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 8,
+    "unit": "miles",
+    "date": "2025-03-28",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 336,
+    "unit": "miles",
+    "date": "2025-10-06",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 353,
+    "unit": "miles",
+    "date": "2025-05-07",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 243,
+    "unit": "miles",
+    "date": "2025-01-02",
+    "note": "estimated"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 386,
+    "unit": "hours",
+    "date": "2025-09-14",
+    "note": "daily commute"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 38,
+    "unit": "miles",
+    "date": "2025-07-24",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 218,
+    "unit": "miles",
+    "date": "2025-10-03",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 10,
+    "unit": "hours",
+    "date": "2025-07-25",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 87,
+    "unit": "hours",
+    "date": "2025-12-05",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 179,
+    "unit": "miles",
+    "date": "2025-10-11",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 56,
+    "unit": "hours",
+    "date": "2026-01-10",
+    "note": "estimated"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 149,
+    "unit": "miles",
+    "date": "2025-10-31",
+    "note": "estimated"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 76,
+    "unit": "hours",
+    "date": "2025-07-26",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 347,
+    "unit": "hours",
+    "date": "2026-03-12",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 27,
+    "unit": "miles",
+    "date": "2025-05-01",
+    "note": "estimated"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 416,
+    "unit": "hours",
+    "date": "2026-02-26",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 67,
+    "unit": "hours",
+    "date": "2025-08-27",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 34,
+    "unit": "hours",
+    "date": "2026-01-24",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 445,
+    "unit": "miles",
+    "date": "2025-03-23",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 349,
+    "unit": "miles",
+    "date": "2025-03-04",
+    "note": "daily commute"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 341,
+    "unit": "hours",
+    "date": "2025-01-23",
+    "note": "logged from app"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 181,
+    "unit": "hours",
+    "date": "2025-06-11",
+    "note": "exact reading"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 119,
+    "unit": "miles",
+    "date": "2025-09-30",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 206,
+    "unit": "hours",
+    "date": "2025-06-07",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 413,
+    "unit": "miles",
+    "date": "2025-09-17",
+    "note": "exact reading"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 47,
+    "unit": "hours",
+    "date": "2025-08-06",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 157,
+    "unit": "miles",
+    "date": "2025-11-12",
+    "note": "logged from app"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 54,
+    "unit": "miles",
+    "date": "2025-11-01",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 305,
+    "unit": "hours",
+    "date": "2025-02-20",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 424,
+    "unit": "miles",
+    "date": "2025-10-10",
+    "note": "logged from app"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 167,
+    "unit": "miles",
+    "date": "2026-03-13",
+    "note": "estimated"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 234,
+    "unit": "hours",
+    "date": "2025-04-25",
+    "note": "estimated"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 441,
+    "unit": "hours",
+    "date": "2026-02-13",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 224,
+    "unit": "miles",
+    "date": "2025-10-02",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 325,
+    "unit": "miles",
+    "date": "2025-10-20",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 229,
+    "unit": "miles",
+    "date": "2026-03-23",
+    "note": "estimated"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 110,
+    "unit": "hours",
+    "date": "2025-05-02",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 311,
+    "unit": "hours",
+    "date": "2025-05-18",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 173,
+    "unit": "hours",
+    "date": "2025-10-25",
+    "note": "estimated"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 201,
+    "unit": "hours",
+    "date": "2025-09-18",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 59,
+    "unit": "hours",
+    "date": "2025-09-09",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 93,
+    "unit": "hours",
+    "date": "2026-03-24",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 117,
+    "unit": "miles",
+    "date": "2025-06-16",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 277,
+    "unit": "hours",
+    "date": "2026-01-22",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 480,
+    "unit": "hours",
+    "date": "2026-01-28",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 277,
+    "unit": "miles",
+    "date": "2025-08-25",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 495,
+    "unit": "miles",
+    "date": "2025-07-29",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 44,
+    "unit": "hours",
+    "date": "2025-07-19",
+    "note": "daily commute"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 183,
+    "unit": "miles",
+    "date": "2025-03-10",
+    "note": "logged from app"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 394,
+    "unit": "miles",
+    "date": "2025-01-31",
+    "note": "logged from app"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 29,
+    "unit": "hours",
+    "date": "2025-09-22",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 94,
+    "unit": "miles",
+    "date": "2025-12-26",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 400,
+    "unit": "hours",
+    "date": "2025-11-19",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 386,
+    "unit": "hours",
+    "date": "2026-02-02",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 140,
+    "unit": "hours",
+    "date": "2025-02-10",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 260,
+    "unit": "hours",
+    "date": "2025-02-08",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 254,
+    "unit": "hours",
+    "date": "2025-06-10",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 423,
+    "unit": "hours",
+    "date": "2025-01-02",
+    "note": "logged from app"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 44,
+    "unit": "miles",
+    "date": "2025-11-25",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 245,
+    "unit": "hours",
+    "date": "2025-12-25",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 385,
+    "unit": "hours",
+    "date": "2025-04-22",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 228,
+    "unit": "hours",
+    "date": "2025-03-27",
+    "note": "estimated"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 17,
+    "unit": "hours",
+    "date": "2025-02-01",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 10,
+    "unit": "miles",
+    "date": "2025-12-17",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 51,
+    "unit": "hours",
+    "date": "2025-06-17",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 40,
+    "unit": "hours",
+    "date": "2025-07-02",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 495,
+    "unit": "hours",
+    "date": "2025-03-13",
+    "note": "exact reading"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 196,
+    "unit": "miles",
+    "date": "2025-12-18",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 363,
+    "unit": "miles",
+    "date": "2025-07-02",
+    "note": "logged from app"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 295,
+    "unit": "miles",
+    "date": "2026-03-21",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 279,
+    "unit": "miles",
+    "date": "2026-02-03",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 147,
+    "unit": "miles",
+    "date": "2025-06-19",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 276,
+    "unit": "miles",
+    "date": "2025-02-18",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 186,
+    "unit": "miles",
+    "date": "2025-02-04",
+    "note": "estimated"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 11,
+    "unit": "miles",
+    "date": "2025-03-20",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 284,
+    "unit": "hours",
+    "date": "2025-12-20",
+    "note": "logged from app"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 444,
+    "unit": "hours",
+    "date": "2025-06-15",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 13,
+    "unit": "miles",
+    "date": "2025-08-02",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 372,
+    "unit": "miles",
+    "date": "2025-12-09",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 204,
+    "unit": "hours",
+    "date": "2025-12-30",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 137,
+    "unit": "miles",
+    "date": "2025-04-11",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 348,
+    "unit": "miles",
+    "date": "2025-07-09",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 206,
+    "unit": "miles",
+    "date": "2025-07-13",
+    "note": "exact reading"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 129,
+    "unit": "hours",
+    "date": "2025-01-05",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 489,
+    "unit": "miles",
+    "date": "2025-05-10",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 116,
+    "unit": "hours",
+    "date": "2026-01-02",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 54,
+    "unit": "miles",
+    "date": "2025-11-29",
+    "note": "exact reading"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 166,
+    "unit": "hours",
+    "date": "2025-05-15",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 336,
+    "unit": "hours",
+    "date": "2026-03-13",
+    "note": "logged from app"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 286,
+    "unit": "hours",
+    "date": "2025-11-11",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 266,
+    "unit": "miles",
+    "date": "2025-03-23",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 236,
+    "unit": "hours",
+    "date": "2025-01-14",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 97,
+    "unit": "hours",
+    "date": "2025-03-02",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 261,
+    "unit": "miles",
+    "date": "2026-02-04",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 128,
+    "unit": "hours",
+    "date": "2025-02-28",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 212,
+    "unit": "miles",
+    "date": "2025-02-21",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 382,
+    "unit": "miles",
+    "date": "2025-03-17",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 451,
+    "unit": "hours",
+    "date": "2025-02-17",
+    "note": "logged from app"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 137,
+    "unit": "hours",
+    "date": "2025-09-10",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 95,
+    "unit": "miles",
+    "date": "2025-10-27",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 426,
+    "unit": "miles",
+    "date": "2025-02-19",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 419,
+    "unit": "miles",
+    "date": "2026-02-10",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 4,
+    "unit": "hours",
+    "date": "2025-08-28",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 302,
+    "unit": "miles",
+    "date": "2025-11-25",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 95,
+    "unit": "hours",
+    "date": "2026-01-17",
+    "note": "daily commute"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 156,
+    "unit": "hours",
+    "date": "2025-03-29",
+    "note": "logged from app"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 61,
+    "unit": "miles",
+    "date": "2025-11-25",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 265,
+    "unit": "hours",
+    "date": "2026-03-21",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 408,
+    "unit": "miles",
+    "date": "2025-10-06",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 260,
+    "unit": "miles",
+    "date": "2025-04-10",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 114,
+    "unit": "hours",
+    "date": "2025-11-11",
+    "note": "estimated"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 373,
+    "unit": "miles",
+    "date": "2025-09-24",
+    "note": "daily commute"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 85,
+    "unit": "hours",
+    "date": "2025-04-18",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 109,
+    "unit": "miles",
+    "date": "2025-03-11",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 375,
+    "unit": "hours",
+    "date": "2025-07-24",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 463,
+    "unit": "hours",
+    "date": "2026-03-22",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 87,
+    "unit": "miles",
+    "date": "2026-02-27",
+    "note": "estimated"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 493,
+    "unit": "miles",
+    "date": "2026-03-03",
+    "note": "estimated"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 414,
+    "unit": "miles",
+    "date": "2025-07-08",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 134,
+    "unit": "miles",
+    "date": "2025-06-28",
+    "note": "estimated"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 72,
+    "unit": "miles",
+    "date": "2026-01-17",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 497,
+    "unit": "hours",
+    "date": "2025-12-28",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 22,
+    "unit": "hours",
+    "date": "2026-02-10",
+    "note": "logged from app"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 172,
+    "unit": "hours",
+    "date": "2025-11-14",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 2,
+    "unit": "hours",
+    "date": "2025-11-27",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 420,
+    "unit": "miles",
+    "date": "2026-02-19",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 67,
+    "unit": "hours",
+    "date": "2025-10-08",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 73,
+    "unit": "miles",
+    "date": "2026-01-17",
+    "note": "exact reading"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 229,
+    "unit": "miles",
+    "date": "2026-03-13",
+    "note": "logged from app"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 215,
+    "unit": "miles",
+    "date": "2025-04-28",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 276,
+    "unit": "hours",
+    "date": "2026-03-21",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 486,
+    "unit": "miles",
+    "date": "2025-06-22",
+    "note": "estimated"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 38,
+    "unit": "miles",
+    "date": "2025-07-04",
+    "note": "exact reading"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 17,
+    "unit": "miles",
+    "date": "2025-04-28",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 100,
+    "unit": "hours",
+    "date": "2026-02-26",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 376,
+    "unit": "hours",
+    "date": "2025-10-01",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 67,
+    "unit": "miles",
+    "date": "2026-01-06",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 66,
+    "unit": "hours",
+    "date": "2025-01-21",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 183,
+    "unit": "hours",
+    "date": "2025-12-05",
+    "note": "daily commute"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 224,
+    "unit": "hours",
+    "date": "2026-01-10",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 44,
+    "unit": "miles",
+    "date": "2025-04-15",
+    "note": "logged from app"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 343,
+    "unit": "miles",
+    "date": "2025-12-19",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 160,
+    "unit": "hours",
+    "date": "2025-08-26",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 375,
+    "unit": "hours",
+    "date": "2025-07-10",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 244,
+    "unit": "miles",
+    "date": "2026-03-22",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 66,
+    "unit": "hours",
+    "date": "2025-08-24",
+    "note": "daily commute"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 346,
+    "unit": "miles",
+    "date": "2026-01-19",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 405,
+    "unit": "miles",
+    "date": "2025-07-30",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 442,
+    "unit": "hours",
+    "date": "2026-02-19",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 305,
+    "unit": "hours",
+    "date": "2026-03-11",
+    "note": "estimated"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 140,
+    "unit": "hours",
+    "date": "2025-08-31",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 400,
+    "unit": "hours",
+    "date": "2025-06-22",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 168,
+    "unit": "miles",
+    "date": "2025-11-02",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 74,
+    "unit": "miles",
+    "date": "2025-02-14",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 314,
+    "unit": "miles",
+    "date": "2025-03-30",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 132,
+    "unit": "hours",
+    "date": "2025-05-02",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 365,
+    "unit": "hours",
+    "date": "2025-08-06",
+    "note": "exact reading"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 14,
+    "unit": "miles",
+    "date": "2025-04-15",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 70,
+    "unit": "miles",
+    "date": "2025-01-24",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 254,
+    "unit": "miles",
+    "date": "2025-01-23",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 356,
+    "unit": "miles",
+    "date": "2025-03-31",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 482,
+    "unit": "miles",
+    "date": "2025-05-28",
+    "note": "exact reading"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 345,
+    "unit": "miles",
+    "date": "2026-01-26",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 227,
+    "unit": "miles",
+    "date": "2025-05-04",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 439,
+    "unit": "miles",
+    "date": "2026-02-09",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 310,
+    "unit": "miles",
+    "date": "2026-01-26",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 323,
+    "unit": "miles",
+    "date": "2025-11-09",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 149,
+    "unit": "hours",
+    "date": "2025-05-17",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 303,
+    "unit": "hours",
+    "date": "2025-11-04",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 191,
+    "unit": "hours",
+    "date": "2025-03-10",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 343,
+    "unit": "hours",
+    "date": "2025-01-11",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 59,
+    "unit": "miles",
+    "date": "2025-10-16",
+    "note": "logged from app"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 79,
+    "unit": "miles",
+    "date": "2025-01-21",
+    "note": "logged from app"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 232,
+    "unit": "miles",
+    "date": "2025-12-28",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 112,
+    "unit": "hours",
+    "date": "2025-03-15",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 70,
+    "unit": "miles",
+    "date": "2026-03-02",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 284,
+    "unit": "miles",
+    "date": "2026-02-26",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 174,
+    "unit": "hours",
+    "date": "2026-02-23",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 201,
+    "unit": "hours",
+    "date": "2025-08-11",
+    "note": "estimated"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 18,
+    "unit": "hours",
+    "date": "2026-02-07",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 476,
+    "unit": "miles",
+    "date": "2025-12-14",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 348,
+    "unit": "hours",
+    "date": "2025-02-19",
+    "note": "logged from app"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 298,
+    "unit": "miles",
+    "date": "2025-07-24",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 195,
+    "unit": "miles",
+    "date": "2025-05-05",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 216,
+    "unit": "miles",
+    "date": "2026-01-15",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 426,
+    "unit": "miles",
+    "date": "2025-04-26",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 252,
+    "unit": "hours",
+    "date": "2026-03-14",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 218,
+    "unit": "hours",
+    "date": "2026-03-07",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 488,
+    "unit": "miles",
+    "date": "2025-11-21",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 384,
+    "unit": "hours",
+    "date": "2026-02-12",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 458,
+    "unit": "hours",
+    "date": "2025-02-24",
+    "note": "estimated"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 181,
+    "unit": "hours",
+    "date": "2025-01-02",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 375,
+    "unit": "hours",
+    "date": "2025-03-18",
+    "note": "daily commute"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 189,
+    "unit": "hours",
+    "date": "2025-05-14",
+    "note": "daily commute"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 447,
+    "unit": "miles",
+    "date": "2025-05-06",
+    "note": "daily commute"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 315,
+    "unit": "hours",
+    "date": "2025-08-18",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 30,
+    "unit": "miles",
+    "date": "2025-02-05",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 341,
+    "unit": "hours",
+    "date": "2025-08-12",
+    "note": "estimated"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 398,
+    "unit": "hours",
+    "date": "2025-02-16",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 317,
+    "unit": "hours",
+    "date": "2025-04-11",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 260,
+    "unit": "miles",
+    "date": "2025-07-17",
+    "note": "estimated"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 155,
+    "unit": "hours",
+    "date": "2025-06-15",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 235,
+    "unit": "hours",
+    "date": "2025-02-28",
+    "note": "exact reading"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 221,
+    "unit": "miles",
+    "date": "2025-03-25",
+    "note": "estimated"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 168,
+    "unit": "miles",
+    "date": "2025-03-14",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 286,
+    "unit": "hours",
+    "date": "2025-12-03",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 408,
+    "unit": "miles",
+    "date": "2025-02-18",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 132,
+    "unit": "miles",
+    "date": "2025-02-04",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 388,
+    "unit": "miles",
+    "date": "2025-10-15",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 154,
+    "unit": "hours",
+    "date": "2025-10-09",
+    "note": "daily commute"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 309,
+    "unit": "hours",
+    "date": "2026-03-19",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 481,
+    "unit": "miles",
+    "date": "2025-01-21",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 272,
+    "unit": "hours",
+    "date": "2025-12-28",
+    "note": "logged from app"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 484,
+    "unit": "hours",
+    "date": "2025-05-19",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 352,
+    "unit": "hours",
+    "date": "2025-03-10",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 131,
+    "unit": "hours",
+    "date": "2025-02-04",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 33,
+    "unit": "hours",
+    "date": "2025-05-18",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 193,
+    "unit": "miles",
+    "date": "2025-07-04",
+    "note": "logged from app"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 254,
+    "unit": "hours",
+    "date": "2025-10-31",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 360,
+    "unit": "hours",
+    "date": "2025-06-27",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 267,
+    "unit": "miles",
+    "date": "2025-05-23",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 205,
+    "unit": "miles",
+    "date": "2025-05-08",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 168,
+    "unit": "hours",
+    "date": "2025-07-05",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 313,
+    "unit": "hours",
+    "date": "2025-04-01",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 309,
+    "unit": "hours",
+    "date": "2025-09-08",
+    "note": "exact reading"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 10,
+    "unit": "miles",
+    "date": "2025-06-20",
+    "note": "estimated"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 86,
+    "unit": "hours",
+    "date": "2025-04-16",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 162,
+    "unit": "miles",
+    "date": "2025-03-01",
+    "note": "daily commute"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 432,
+    "unit": "miles",
+    "date": "2026-03-09",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 152,
+    "unit": "hours",
+    "date": "2026-02-09",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 486,
+    "unit": "hours",
+    "date": "2025-07-12",
+    "note": "estimated"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 289,
+    "unit": "miles",
+    "date": "2026-02-12",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 85,
+    "unit": "hours",
+    "date": "2025-11-09",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 421,
+    "unit": "miles",
+    "date": "2025-08-28",
+    "note": "estimated"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 442,
+    "unit": "miles",
+    "date": "2025-08-21",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 328,
+    "unit": "miles",
+    "date": "2026-03-21",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 201,
+    "unit": "miles",
+    "date": "2025-10-12",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 17,
+    "unit": "hours",
+    "date": "2025-08-31",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 482,
+    "unit": "hours",
+    "date": "2025-10-07",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 246,
+    "unit": "miles",
+    "date": "2025-09-22",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 271,
+    "unit": "hours",
+    "date": "2025-01-13",
+    "note": "logged from app"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 200,
+    "unit": "hours",
+    "date": "2025-03-04",
+    "note": "exact reading"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 127,
+    "unit": "miles",
+    "date": "2025-04-11",
+    "note": "logged from app"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 419,
+    "unit": "miles",
+    "date": "2025-09-14",
+    "note": "daily commute"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 65,
+    "unit": "miles",
+    "date": "2025-10-12",
+    "note": "daily commute"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 431,
+    "unit": "miles",
+    "date": "2025-12-16",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 141,
+    "unit": "miles",
+    "date": "2025-01-02",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 360,
+    "unit": "miles",
+    "date": "2026-01-10",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 321,
+    "unit": "hours",
+    "date": "2025-09-13",
+    "note": "logged from app"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 79,
+    "unit": "miles",
+    "date": "2025-04-20",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 276,
+    "unit": "hours",
+    "date": "2025-09-07",
+    "note": "estimated"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 227,
+    "unit": "miles",
+    "date": "2026-02-23",
+    "note": "estimated"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 313,
+    "unit": "hours",
+    "date": "2025-12-30",
+    "note": "exact reading"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 51,
+    "unit": "hours",
+    "date": "2025-12-28",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 25,
+    "unit": "hours",
+    "date": "2025-08-13",
+    "note": "daily commute"
+  },
+  {
+    "type": "train",
+    "category": "transport",
+    "value": 309,
+    "unit": "miles",
+    "date": "2025-06-11",
+    "note": "exact reading"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 305,
+    "unit": "miles",
+    "date": "2025-09-02",
+    "note": "daily commute"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 185,
+    "unit": "miles",
+    "date": "2025-11-17",
+    "note": "estimated"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 75,
+    "unit": "hours",
+    "date": "2026-01-17",
+    "note": "logged from app"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 93,
+    "unit": "miles",
+    "date": "2026-01-29",
+    "note": "estimated"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 431,
+    "unit": "hours",
+    "date": "2026-01-21",
+    "note": "estimated"
+  },
+  {
+    "type": "driving",
+    "category": "transport",
+    "value": 294,
+    "unit": "hours",
+    "date": "2025-11-03",
+    "note": "exact reading"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 30,
+    "unit": "hours",
+    "date": "2025-04-24",
+    "note": "exact reading"
+  },
+  {
+    "type": "bus",
+    "category": "transport",
+    "value": 32,
+    "unit": "miles",
+    "date": "2025-05-12",
+    "note": "logged from app"
+  },
+  {
+    "type": "flying",
+    "category": "transport",
+    "value": 327,
+    "unit": "hours",
+    "date": "2025-02-10",
+    "note": "estimated"
+  }
+]
