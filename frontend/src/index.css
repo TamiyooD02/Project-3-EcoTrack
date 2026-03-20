@@ -35,3 +35,10 @@ h1 {
 .navbar button:hover {
   background-color: #1b5e20;
 }
+
+.welcome-text {
+  margin-left: auto;
+  font-size: 14px;
+  align-self: center;
+  color: #2e7d32;
+}
