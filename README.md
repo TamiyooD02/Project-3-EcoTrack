@@ -87,3 +87,4 @@ http://localhost:5173
 MIT License - see LICENSE file for details
 
 ## AI Usage Disclosure
+- ReadMe.md template from project 2 was used and edited to create this ReadMe template: (exerpt from project 2) Gen AI (specifically Claude) was used to create a template of this README file before it was edited accordingly to match the scope of this project. The prompt was "Acting like your a senior full stack developer, provide a template of a readme file for an gihub repo of a project you just completed."
