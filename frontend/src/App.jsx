@@ -10,7 +10,6 @@ import './index.css';
 //component decides what to show based on if user is logged in
 function AppContent() {
   //keeps track of activity user clicked 'edit' on
-  //starts at null
   const [selectedActivity, setSelectedActivity] = useState(null);
 
   // number increases every time user saves or delete
