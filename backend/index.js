@@ -15,6 +15,7 @@ import { connectDB } from './db.js';
 
 // import routes
 import activitiesRouter from './routes/activities.js';
+import goalsRouter from './routes/goals.js';
 import authRouter from './routes/auth.js';
 
 // create the server app
@@ -43,6 +44,7 @@ app.use(passport.session());
 
 // connect the routes
 app.use('/api/activities', activitiesRouter);
+app.use('/api/goals', goalsRouter);
 app.use('/api/auth', authRouter);
 
 // test route to see if server is working

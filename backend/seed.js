@@ -12,6 +12,7 @@ const transportData = JSON.parse(
 );
 const dietData = JSON.parse(readFileSync('./data/diet.json', 'utf-8'));
 const energyData = JSON.parse(readFileSync('./data/energy.json', 'utf-8'));
+const goalsData = JSON.parse(readFileSync('./data/goals.json', 'utf-8'));
 
 //connect to mongodb
 const client = new MongoClient(process.env.MONGO_URI);
@@ -32,6 +33,18 @@ const allActivities = [...transportData, ...dietData, ...energyData];
 //insert everything into activities collection
 await db.collection('activities').insertMany(allActivities);
 console.log('inserted ' + allActivities.length + ' activities!');
+
+//delete old goals data so there are no duplicates
+await db
+  .collection('goals')
+  .drop()
+  .catch(() => {
+    console.log('goals collection does not exist yet');
+  });
+
+//insert goals into goals collection
+await db.collection('goals').insertMany(goalsData);
+console.log('inserted ' + goalsData.length + ' goals!');
 
 // disconnect from mongodb
 await client.close();

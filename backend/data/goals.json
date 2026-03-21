@@ -1,0 +1,4502 @@
+[
+  {
+    "title": "Avoid processed foods",
+    "category": "diet",
+    "targetValue": 49,
+    "targetUnit": "days",
+    "deadline": "2026-06-16",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 89,
+    "targetUnit": "loads",
+    "deadline": "2025-04-17",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Avoid processed foods",
+    "category": "diet",
+    "targetValue": 53,
+    "targetUnit": "days",
+    "deadline": "2025-09-30",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 41,
+    "targetUnit": "flights",
+    "deadline": "2025-02-08",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 84,
+    "targetUnit": "pounds",
+    "deadline": "2025-12-04",
+    "status": "active",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Buy local produce",
+    "category": "diet",
+    "targetValue": 46,
+    "targetUnit": "purchases",
+    "deadline": "2025-04-17",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 97,
+    "targetUnit": "hours",
+    "deadline": "2026-04-05",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 55,
+    "targetUnit": "loads",
+    "deadline": "2025-01-31",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 9,
+    "targetUnit": "loads",
+    "deadline": "2025-11-09",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 82,
+    "targetUnit": "days",
+    "deadline": "2025-11-12",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 93,
+    "targetUnit": "pounds",
+    "deadline": "2025-07-14",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 14,
+    "targetUnit": "servings",
+    "deadline": "2025-10-29",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 48,
+    "targetUnit": "servings",
+    "deadline": "2025-01-25",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 48,
+    "targetUnit": "hours",
+    "deadline": "2025-04-25",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 79,
+    "targetUnit": "flights",
+    "deadline": "2025-10-03",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 45,
+    "targetUnit": "devices",
+    "deadline": "2025-01-15",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 56,
+    "targetUnit": "days",
+    "deadline": "2025-06-17",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 69,
+    "targetUnit": "loads",
+    "deadline": "2025-01-08",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 35,
+    "targetUnit": "loads",
+    "deadline": "2025-01-19",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 71,
+    "targetUnit": "trips",
+    "deadline": "2025-08-23",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 23,
+    "targetUnit": "meals",
+    "deadline": "2025-01-28",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 49,
+    "targetUnit": "miles",
+    "deadline": "2025-04-26",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 28,
+    "targetUnit": "hours",
+    "deadline": "2026-02-06",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 15,
+    "targetUnit": "miles",
+    "deadline": "2025-09-24",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 71,
+    "targetUnit": "trips",
+    "deadline": "2025-05-12",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 36,
+    "targetUnit": "days",
+    "deadline": "2025-02-24",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 96,
+    "targetUnit": "servings",
+    "deadline": "2025-10-12",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 74,
+    "targetUnit": "days",
+    "deadline": "2025-03-01",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Avoid processed foods",
+    "category": "diet",
+    "targetValue": 95,
+    "targetUnit": "days",
+    "deadline": "2026-06-05",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 71,
+    "targetUnit": "flights",
+    "deadline": "2026-05-01",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Try meatless Mondays",
+    "category": "diet",
+    "targetValue": 50,
+    "targetUnit": "weeks",
+    "deadline": "2025-02-09",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 33,
+    "targetUnit": "loads",
+    "deadline": "2026-03-19",
+    "status": "active",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Walk for short errands",
+    "category": "transport",
+    "targetValue": 22,
+    "targetUnit": "trips",
+    "deadline": "2025-10-04",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 92,
+    "targetUnit": "devices",
+    "deadline": "2025-11-11",
+    "status": "active",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 31,
+    "targetUnit": "hours",
+    "deadline": "2026-01-13",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 62,
+    "targetUnit": "flights",
+    "deadline": "2025-01-22",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Walk for short errands",
+    "category": "transport",
+    "targetValue": 74,
+    "targetUnit": "trips",
+    "deadline": "2025-10-31",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 47,
+    "targetUnit": "miles",
+    "deadline": "2026-01-02",
+    "status": "active",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 17,
+    "targetUnit": "servings",
+    "deadline": "2026-06-27",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 83,
+    "targetUnit": "kwh",
+    "deadline": "2026-05-16",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 99,
+    "targetUnit": "items",
+    "deadline": "2025-09-28",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 59,
+    "targetUnit": "bulbs",
+    "deadline": "2025-12-18",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Buy local produce",
+    "category": "diet",
+    "targetValue": 49,
+    "targetUnit": "purchases",
+    "deadline": "2026-05-08",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 7,
+    "targetUnit": "bulbs",
+    "deadline": "2026-03-14",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 65,
+    "targetUnit": "miles",
+    "deadline": "2025-11-10",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 19,
+    "targetUnit": "days",
+    "deadline": "2025-09-18",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Avoid processed foods",
+    "category": "diet",
+    "targetValue": 58,
+    "targetUnit": "days",
+    "deadline": "2025-01-13",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 20,
+    "targetUnit": "meals",
+    "deadline": "2025-06-26",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 84,
+    "targetUnit": "servings",
+    "deadline": "2025-12-07",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 38,
+    "targetUnit": "kwh",
+    "deadline": "2026-03-01",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 81,
+    "targetUnit": "miles",
+    "deadline": "2025-05-07",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 68,
+    "targetUnit": "hours",
+    "deadline": "2025-12-27",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 26,
+    "targetUnit": "meals",
+    "deadline": "2025-10-10",
+    "status": "active",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 83,
+    "targetUnit": "kwh",
+    "deadline": "2025-12-22",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 83,
+    "targetUnit": "hours",
+    "deadline": "2025-10-03",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Buy local produce",
+    "category": "diet",
+    "targetValue": 13,
+    "targetUnit": "purchases",
+    "deadline": "2026-06-28",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 89,
+    "targetUnit": "flights",
+    "deadline": "2025-07-13",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 28,
+    "targetUnit": "servings",
+    "deadline": "2025-09-18",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 87,
+    "targetUnit": "degrees",
+    "deadline": "2025-10-21",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 70,
+    "targetUnit": "miles",
+    "deadline": "2026-01-25",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 61,
+    "targetUnit": "pounds",
+    "deadline": "2025-06-24",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 46,
+    "targetUnit": "miles",
+    "deadline": "2025-05-25",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 79,
+    "targetUnit": "days",
+    "deadline": "2026-06-04",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Buy local produce",
+    "category": "diet",
+    "targetValue": 90,
+    "targetUnit": "purchases",
+    "deadline": "2025-10-15",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 68,
+    "targetUnit": "days",
+    "deadline": "2026-02-20",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 74,
+    "targetUnit": "devices",
+    "deadline": "2025-12-14",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 59,
+    "targetUnit": "kwh",
+    "deadline": "2025-03-02",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Install solar panels",
+    "category": "energy",
+    "targetValue": 22,
+    "targetUnit": "panels",
+    "deadline": "2025-11-09",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 13,
+    "targetUnit": "days",
+    "deadline": "2025-11-05",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 72,
+    "targetUnit": "miles",
+    "deadline": "2025-12-22",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 46,
+    "targetUnit": "meals",
+    "deadline": "2026-03-01",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 92,
+    "targetUnit": "items",
+    "deadline": "2025-03-25",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 32,
+    "targetUnit": "servings",
+    "deadline": "2026-01-13",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 12,
+    "targetUnit": "trips",
+    "deadline": "2025-04-11",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 91,
+    "targetUnit": "trips",
+    "deadline": "2025-05-29",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 12,
+    "targetUnit": "items",
+    "deadline": "2026-06-15",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 83,
+    "targetUnit": "hours",
+    "deadline": "2025-05-03",
+    "status": "active",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 82,
+    "targetUnit": "trips",
+    "deadline": "2026-03-03",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 18,
+    "targetUnit": "loads",
+    "deadline": "2025-05-04",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 78,
+    "targetUnit": "items",
+    "deadline": "2025-12-14",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 6,
+    "targetUnit": "servings",
+    "deadline": "2026-06-16",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 40,
+    "targetUnit": "kwh",
+    "deadline": "2026-05-19",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 65,
+    "targetUnit": "kwh",
+    "deadline": "2026-04-18",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 48,
+    "targetUnit": "days",
+    "deadline": "2025-11-16",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 16,
+    "targetUnit": "hours",
+    "deadline": "2025-05-07",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Try meatless Mondays",
+    "category": "diet",
+    "targetValue": 65,
+    "targetUnit": "weeks",
+    "deadline": "2025-02-09",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 95,
+    "targetUnit": "bulbs",
+    "deadline": "2025-04-25",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 20,
+    "targetUnit": "bulbs",
+    "deadline": "2026-05-31",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 65,
+    "targetUnit": "trips",
+    "deadline": "2026-05-05",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 35,
+    "targetUnit": "items",
+    "deadline": "2025-03-15",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 53,
+    "targetUnit": "devices",
+    "deadline": "2025-03-19",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 70,
+    "targetUnit": "meals",
+    "deadline": "2025-05-05",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 65,
+    "targetUnit": "degrees",
+    "deadline": "2025-03-30",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 89,
+    "targetUnit": "servings",
+    "deadline": "2025-04-14",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 14,
+    "targetUnit": "degrees",
+    "deadline": "2025-10-19",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 47,
+    "targetUnit": "miles",
+    "deadline": "2026-04-17",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 93,
+    "targetUnit": "servings",
+    "deadline": "2025-05-19",
+    "status": "active",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 91,
+    "targetUnit": "loads",
+    "deadline": "2026-04-30",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 53,
+    "targetUnit": "meals",
+    "deadline": "2025-01-04",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 34,
+    "targetUnit": "days",
+    "deadline": "2025-10-03",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 85,
+    "targetUnit": "pounds",
+    "deadline": "2025-12-25",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 86,
+    "targetUnit": "servings",
+    "deadline": "2025-12-21",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 7,
+    "targetUnit": "degrees",
+    "deadline": "2026-01-15",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 51,
+    "targetUnit": "days",
+    "deadline": "2025-09-12",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Avoid processed foods",
+    "category": "diet",
+    "targetValue": 50,
+    "targetUnit": "days",
+    "deadline": "2025-09-29",
+    "status": "active",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 57,
+    "targetUnit": "servings",
+    "deadline": "2026-01-02",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Walk for short errands",
+    "category": "transport",
+    "targetValue": 69,
+    "targetUnit": "trips",
+    "deadline": "2026-06-26",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 15,
+    "targetUnit": "devices",
+    "deadline": "2025-10-12",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 72,
+    "targetUnit": "kwh",
+    "deadline": "2025-11-24",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 16,
+    "targetUnit": "days",
+    "deadline": "2025-04-12",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 83,
+    "targetUnit": "days",
+    "deadline": "2025-06-19",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 11,
+    "targetUnit": "degrees",
+    "deadline": "2026-05-03",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 74,
+    "targetUnit": "miles",
+    "deadline": "2025-02-20",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 55,
+    "targetUnit": "pounds",
+    "deadline": "2026-03-01",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 98,
+    "targetUnit": "trips",
+    "deadline": "2025-05-04",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 27,
+    "targetUnit": "flights",
+    "deadline": "2026-04-03",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Try meatless Mondays",
+    "category": "diet",
+    "targetValue": 91,
+    "targetUnit": "weeks",
+    "deadline": "2025-03-12",
+    "status": "active",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 12,
+    "targetUnit": "days",
+    "deadline": "2025-03-25",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 82,
+    "targetUnit": "pounds",
+    "deadline": "2026-01-10",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 20,
+    "targetUnit": "days",
+    "deadline": "2026-04-17",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Install solar panels",
+    "category": "energy",
+    "targetValue": 94,
+    "targetUnit": "panels",
+    "deadline": "2025-09-17",
+    "status": "active",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 58,
+    "targetUnit": "trips",
+    "deadline": "2026-05-29",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 30,
+    "targetUnit": "loads",
+    "deadline": "2026-05-29",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 29,
+    "targetUnit": "hours",
+    "deadline": "2025-11-03",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 45,
+    "targetUnit": "pounds",
+    "deadline": "2026-01-11",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 42,
+    "targetUnit": "degrees",
+    "deadline": "2025-03-15",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 40,
+    "targetUnit": "degrees",
+    "deadline": "2025-04-10",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 63,
+    "targetUnit": "servings",
+    "deadline": "2026-02-04",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 61,
+    "targetUnit": "servings",
+    "deadline": "2026-01-11",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 80,
+    "targetUnit": "servings",
+    "deadline": "2025-10-21",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 50,
+    "targetUnit": "bulbs",
+    "deadline": "2026-02-06",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 30,
+    "targetUnit": "servings",
+    "deadline": "2026-06-12",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 24,
+    "targetUnit": "devices",
+    "deadline": "2026-03-20",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Install solar panels",
+    "category": "energy",
+    "targetValue": 90,
+    "targetUnit": "panels",
+    "deadline": "2025-09-22",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 22,
+    "targetUnit": "hours",
+    "deadline": "2025-04-19",
+    "status": "active",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 63,
+    "targetUnit": "loads",
+    "deadline": "2025-06-20",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 86,
+    "targetUnit": "trips",
+    "deadline": "2026-04-24",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 50,
+    "targetUnit": "servings",
+    "deadline": "2025-10-06",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Install solar panels",
+    "category": "energy",
+    "targetValue": 36,
+    "targetUnit": "panels",
+    "deadline": "2025-07-16",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 29,
+    "targetUnit": "devices",
+    "deadline": "2025-03-28",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 71,
+    "targetUnit": "hours",
+    "deadline": "2026-06-21",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 38,
+    "targetUnit": "servings",
+    "deadline": "2026-04-19",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 27,
+    "targetUnit": "miles",
+    "deadline": "2025-06-15",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 98,
+    "targetUnit": "miles",
+    "deadline": "2025-04-04",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 91,
+    "targetUnit": "pounds",
+    "deadline": "2025-12-02",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 48,
+    "targetUnit": "trips",
+    "deadline": "2025-07-31",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 6,
+    "targetUnit": "days",
+    "deadline": "2025-10-23",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Avoid processed foods",
+    "category": "diet",
+    "targetValue": 84,
+    "targetUnit": "days",
+    "deadline": "2025-08-02",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 33,
+    "targetUnit": "miles",
+    "deadline": "2025-04-27",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Buy local produce",
+    "category": "diet",
+    "targetValue": 18,
+    "targetUnit": "purchases",
+    "deadline": "2025-02-04",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 48,
+    "targetUnit": "trips",
+    "deadline": "2025-05-11",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 48,
+    "targetUnit": "hours",
+    "deadline": "2025-03-16",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 24,
+    "targetUnit": "meals",
+    "deadline": "2026-03-27",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 99,
+    "targetUnit": "servings",
+    "deadline": "2026-05-20",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 85,
+    "targetUnit": "hours",
+    "deadline": "2026-06-07",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 82,
+    "targetUnit": "bulbs",
+    "deadline": "2026-01-22",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 41,
+    "targetUnit": "trips",
+    "deadline": "2025-05-15",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 99,
+    "targetUnit": "pounds",
+    "deadline": "2025-01-07",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 58,
+    "targetUnit": "hours",
+    "deadline": "2026-04-02",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 47,
+    "targetUnit": "items",
+    "deadline": "2025-08-15",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Try meatless Mondays",
+    "category": "diet",
+    "targetValue": 61,
+    "targetUnit": "weeks",
+    "deadline": "2026-02-17",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 67,
+    "targetUnit": "bulbs",
+    "deadline": "2025-09-15",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 44,
+    "targetUnit": "bulbs",
+    "deadline": "2025-05-08",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 56,
+    "targetUnit": "loads",
+    "deadline": "2026-03-10",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 48,
+    "targetUnit": "loads",
+    "deadline": "2025-04-05",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 18,
+    "targetUnit": "servings",
+    "deadline": "2026-05-01",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 8,
+    "targetUnit": "trips",
+    "deadline": "2026-04-22",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 43,
+    "targetUnit": "kwh",
+    "deadline": "2026-01-19",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Buy local produce",
+    "category": "diet",
+    "targetValue": 62,
+    "targetUnit": "purchases",
+    "deadline": "2025-03-21",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 89,
+    "targetUnit": "days",
+    "deadline": "2025-11-15",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 5,
+    "targetUnit": "hours",
+    "deadline": "2025-05-26",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 38,
+    "targetUnit": "miles",
+    "deadline": "2025-03-08",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 38,
+    "targetUnit": "miles",
+    "deadline": "2025-02-04",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 42,
+    "targetUnit": "miles",
+    "deadline": "2025-07-24",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 14,
+    "targetUnit": "meals",
+    "deadline": "2025-04-11",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Install solar panels",
+    "category": "energy",
+    "targetValue": 55,
+    "targetUnit": "panels",
+    "deadline": "2025-05-27",
+    "status": "active",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 10,
+    "targetUnit": "miles",
+    "deadline": "2025-04-24",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 68,
+    "targetUnit": "pounds",
+    "deadline": "2025-04-12",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 96,
+    "targetUnit": "pounds",
+    "deadline": "2025-06-25",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 25,
+    "targetUnit": "days",
+    "deadline": "2025-12-06",
+    "status": "active",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 97,
+    "targetUnit": "flights",
+    "deadline": "2025-01-09",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 8,
+    "targetUnit": "hours",
+    "deadline": "2025-11-20",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 43,
+    "targetUnit": "days",
+    "deadline": "2025-05-28",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 72,
+    "targetUnit": "trips",
+    "deadline": "2026-06-16",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 28,
+    "targetUnit": "pounds",
+    "deadline": "2026-01-11",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 33,
+    "targetUnit": "loads",
+    "deadline": "2025-04-27",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 59,
+    "targetUnit": "servings",
+    "deadline": "2025-04-11",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 10,
+    "targetUnit": "bulbs",
+    "deadline": "2026-06-09",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Install solar panels",
+    "category": "energy",
+    "targetValue": 66,
+    "targetUnit": "panels",
+    "deadline": "2025-11-18",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 29,
+    "targetUnit": "degrees",
+    "deadline": "2026-04-27",
+    "status": "active",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 82,
+    "targetUnit": "degrees",
+    "deadline": "2025-09-21",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 40,
+    "targetUnit": "kwh",
+    "deadline": "2026-04-11",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 57,
+    "targetUnit": "servings",
+    "deadline": "2025-05-15",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 75,
+    "targetUnit": "devices",
+    "deadline": "2025-03-20",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 75,
+    "targetUnit": "servings",
+    "deadline": "2025-01-14",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 26,
+    "targetUnit": "days",
+    "deadline": "2026-04-16",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 92,
+    "targetUnit": "miles",
+    "deadline": "2026-03-22",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 64,
+    "targetUnit": "hours",
+    "deadline": "2025-04-29",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 35,
+    "targetUnit": "days",
+    "deadline": "2025-09-23",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 31,
+    "targetUnit": "days",
+    "deadline": "2025-01-02",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 83,
+    "targetUnit": "hours",
+    "deadline": "2026-01-12",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 38,
+    "targetUnit": "items",
+    "deadline": "2025-12-04",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 96,
+    "targetUnit": "trips",
+    "deadline": "2025-09-07",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 98,
+    "targetUnit": "days",
+    "deadline": "2025-07-24",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 38,
+    "targetUnit": "trips",
+    "deadline": "2025-10-16",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Avoid processed foods",
+    "category": "diet",
+    "targetValue": 81,
+    "targetUnit": "days",
+    "deadline": "2025-07-23",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 76,
+    "targetUnit": "pounds",
+    "deadline": "2025-09-10",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 14,
+    "targetUnit": "items",
+    "deadline": "2025-12-14",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Avoid processed foods",
+    "category": "diet",
+    "targetValue": 76,
+    "targetUnit": "days",
+    "deadline": "2025-12-02",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 42,
+    "targetUnit": "servings",
+    "deadline": "2026-04-23",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 55,
+    "targetUnit": "trips",
+    "deadline": "2025-07-13",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 27,
+    "targetUnit": "pounds",
+    "deadline": "2026-04-18",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Install solar panels",
+    "category": "energy",
+    "targetValue": 77,
+    "targetUnit": "panels",
+    "deadline": "2026-06-08",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 99,
+    "targetUnit": "trips",
+    "deadline": "2025-07-18",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 59,
+    "targetUnit": "flights",
+    "deadline": "2026-03-07",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 54,
+    "targetUnit": "bulbs",
+    "deadline": "2025-11-10",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 53,
+    "targetUnit": "miles",
+    "deadline": "2025-12-05",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 63,
+    "targetUnit": "miles",
+    "deadline": "2025-08-03",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 66,
+    "targetUnit": "flights",
+    "deadline": "2025-12-04",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 49,
+    "targetUnit": "flights",
+    "deadline": "2025-10-25",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 34,
+    "targetUnit": "degrees",
+    "deadline": "2026-06-09",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 89,
+    "targetUnit": "loads",
+    "deadline": "2025-08-02",
+    "status": "active",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 82,
+    "targetUnit": "trips",
+    "deadline": "2026-06-27",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 92,
+    "targetUnit": "pounds",
+    "deadline": "2025-07-17",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 12,
+    "targetUnit": "pounds",
+    "deadline": "2026-06-19",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 64,
+    "targetUnit": "flights",
+    "deadline": "2025-04-06",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 12,
+    "targetUnit": "days",
+    "deadline": "2025-08-04",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 32,
+    "targetUnit": "days",
+    "deadline": "2026-06-02",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 31,
+    "targetUnit": "trips",
+    "deadline": "2026-05-25",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 59,
+    "targetUnit": "miles",
+    "deadline": "2026-02-26",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Avoid processed foods",
+    "category": "diet",
+    "targetValue": 26,
+    "targetUnit": "days",
+    "deadline": "2026-06-12",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 47,
+    "targetUnit": "servings",
+    "deadline": "2025-03-29",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 37,
+    "targetUnit": "loads",
+    "deadline": "2025-08-14",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 13,
+    "targetUnit": "servings",
+    "deadline": "2025-03-10",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 98,
+    "targetUnit": "devices",
+    "deadline": "2025-03-21",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 84,
+    "targetUnit": "items",
+    "deadline": "2025-05-06",
+    "status": "active",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 50,
+    "targetUnit": "days",
+    "deadline": "2025-02-24",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 83,
+    "targetUnit": "bulbs",
+    "deadline": "2025-11-06",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 5,
+    "targetUnit": "degrees",
+    "deadline": "2025-04-02",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 6,
+    "targetUnit": "trips",
+    "deadline": "2025-11-28",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 33,
+    "targetUnit": "pounds",
+    "deadline": "2025-02-28",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 92,
+    "targetUnit": "hours",
+    "deadline": "2026-01-19",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 38,
+    "targetUnit": "trips",
+    "deadline": "2026-03-27",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Walk for short errands",
+    "category": "transport",
+    "targetValue": 23,
+    "targetUnit": "trips",
+    "deadline": "2025-02-11",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 36,
+    "targetUnit": "devices",
+    "deadline": "2025-02-24",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Walk for short errands",
+    "category": "transport",
+    "targetValue": 67,
+    "targetUnit": "trips",
+    "deadline": "2026-03-04",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Avoid processed foods",
+    "category": "diet",
+    "targetValue": 93,
+    "targetUnit": "days",
+    "deadline": "2025-06-07",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 93,
+    "targetUnit": "meals",
+    "deadline": "2025-12-05",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 50,
+    "targetUnit": "pounds",
+    "deadline": "2025-12-02",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Try meatless Mondays",
+    "category": "diet",
+    "targetValue": 91,
+    "targetUnit": "weeks",
+    "deadline": "2025-07-29",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 88,
+    "targetUnit": "servings",
+    "deadline": "2026-04-10",
+    "status": "active",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 78,
+    "targetUnit": "miles",
+    "deadline": "2025-02-06",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 24,
+    "targetUnit": "servings",
+    "deadline": "2026-06-20",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 19,
+    "targetUnit": "loads",
+    "deadline": "2026-01-24",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 49,
+    "targetUnit": "pounds",
+    "deadline": "2025-02-22",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Buy local produce",
+    "category": "diet",
+    "targetValue": 81,
+    "targetUnit": "purchases",
+    "deadline": "2025-04-15",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Walk for short errands",
+    "category": "transport",
+    "targetValue": 18,
+    "targetUnit": "trips",
+    "deadline": "2026-02-03",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 7,
+    "targetUnit": "days",
+    "deadline": "2025-06-13",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 33,
+    "targetUnit": "hours",
+    "deadline": "2025-09-05",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 53,
+    "targetUnit": "servings",
+    "deadline": "2025-04-28",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Walk for short errands",
+    "category": "transport",
+    "targetValue": 55,
+    "targetUnit": "trips",
+    "deadline": "2025-06-07",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 21,
+    "targetUnit": "trips",
+    "deadline": "2025-11-11",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Walk for short errands",
+    "category": "transport",
+    "targetValue": 51,
+    "targetUnit": "trips",
+    "deadline": "2025-05-05",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 81,
+    "targetUnit": "hours",
+    "deadline": "2025-04-15",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 30,
+    "targetUnit": "servings",
+    "deadline": "2025-07-23",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 82,
+    "targetUnit": "pounds",
+    "deadline": "2025-05-26",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Avoid processed foods",
+    "category": "diet",
+    "targetValue": 25,
+    "targetUnit": "days",
+    "deadline": "2025-06-21",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 62,
+    "targetUnit": "pounds",
+    "deadline": "2025-07-03",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 75,
+    "targetUnit": "devices",
+    "deadline": "2026-01-29",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 77,
+    "targetUnit": "meals",
+    "deadline": "2026-04-25",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 69,
+    "targetUnit": "pounds",
+    "deadline": "2025-04-19",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 6,
+    "targetUnit": "servings",
+    "deadline": "2025-02-21",
+    "status": "active",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Avoid processed foods",
+    "category": "diet",
+    "targetValue": 9,
+    "targetUnit": "days",
+    "deadline": "2026-03-31",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 18,
+    "targetUnit": "loads",
+    "deadline": "2025-02-12",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 45,
+    "targetUnit": "pounds",
+    "deadline": "2025-10-16",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 94,
+    "targetUnit": "days",
+    "deadline": "2026-06-11",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 50,
+    "targetUnit": "devices",
+    "deadline": "2025-04-27",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Install solar panels",
+    "category": "energy",
+    "targetValue": 63,
+    "targetUnit": "panels",
+    "deadline": "2025-11-03",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 86,
+    "targetUnit": "items",
+    "deadline": "2026-03-25",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 30,
+    "targetUnit": "pounds",
+    "deadline": "2026-01-09",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 68,
+    "targetUnit": "bulbs",
+    "deadline": "2025-07-28",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 65,
+    "targetUnit": "hours",
+    "deadline": "2025-02-19",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 33,
+    "targetUnit": "devices",
+    "deadline": "2025-07-22",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 90,
+    "targetUnit": "degrees",
+    "deadline": "2026-01-19",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 65,
+    "targetUnit": "devices",
+    "deadline": "2025-09-15",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 94,
+    "targetUnit": "items",
+    "deadline": "2025-06-22",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 36,
+    "targetUnit": "hours",
+    "deadline": "2025-02-05",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 54,
+    "targetUnit": "bulbs",
+    "deadline": "2025-02-19",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 60,
+    "targetUnit": "hours",
+    "deadline": "2026-04-20",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 50,
+    "targetUnit": "kwh",
+    "deadline": "2025-11-17",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Try meatless Mondays",
+    "category": "diet",
+    "targetValue": 42,
+    "targetUnit": "weeks",
+    "deadline": "2025-11-12",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 30,
+    "targetUnit": "flights",
+    "deadline": "2026-01-30",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 53,
+    "targetUnit": "miles",
+    "deadline": "2026-02-25",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 23,
+    "targetUnit": "miles",
+    "deadline": "2026-01-15",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Try meatless Mondays",
+    "category": "diet",
+    "targetValue": 63,
+    "targetUnit": "weeks",
+    "deadline": "2025-04-09",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 55,
+    "targetUnit": "trips",
+    "deadline": "2026-05-27",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 77,
+    "targetUnit": "flights",
+    "deadline": "2025-09-18",
+    "status": "active",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 90,
+    "targetUnit": "miles",
+    "deadline": "2025-01-07",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 40,
+    "targetUnit": "days",
+    "deadline": "2026-02-05",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 76,
+    "targetUnit": "hours",
+    "deadline": "2025-03-22",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 70,
+    "targetUnit": "hours",
+    "deadline": "2025-02-08",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 98,
+    "targetUnit": "miles",
+    "deadline": "2025-11-21",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 94,
+    "targetUnit": "items",
+    "deadline": "2025-09-16",
+    "status": "active",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 36,
+    "targetUnit": "days",
+    "deadline": "2025-04-25",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 66,
+    "targetUnit": "servings",
+    "deadline": "2025-03-28",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 91,
+    "targetUnit": "meals",
+    "deadline": "2025-08-28",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 78,
+    "targetUnit": "degrees",
+    "deadline": "2026-05-22",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 68,
+    "targetUnit": "miles",
+    "deadline": "2026-05-17",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 98,
+    "targetUnit": "miles",
+    "deadline": "2026-05-31",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 90,
+    "targetUnit": "meals",
+    "deadline": "2025-03-08",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 37,
+    "targetUnit": "flights",
+    "deadline": "2026-05-23",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 24,
+    "targetUnit": "hours",
+    "deadline": "2026-05-23",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 82,
+    "targetUnit": "servings",
+    "deadline": "2025-09-19",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 8,
+    "targetUnit": "flights",
+    "deadline": "2025-11-22",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 29,
+    "targetUnit": "degrees",
+    "deadline": "2026-01-08",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 36,
+    "targetUnit": "hours",
+    "deadline": "2026-05-07",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 8,
+    "targetUnit": "bulbs",
+    "deadline": "2026-05-14",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 6,
+    "targetUnit": "flights",
+    "deadline": "2026-03-05",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 19,
+    "targetUnit": "servings",
+    "deadline": "2026-06-09",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 57,
+    "targetUnit": "trips",
+    "deadline": "2026-02-12",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 83,
+    "targetUnit": "devices",
+    "deadline": "2026-01-17",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Install solar panels",
+    "category": "energy",
+    "targetValue": 56,
+    "targetUnit": "panels",
+    "deadline": "2026-05-13",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 60,
+    "targetUnit": "bulbs",
+    "deadline": "2025-11-10",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Install solar panels",
+    "category": "energy",
+    "targetValue": 26,
+    "targetUnit": "panels",
+    "deadline": "2025-03-01",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 94,
+    "targetUnit": "miles",
+    "deadline": "2025-11-20",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 26,
+    "targetUnit": "degrees",
+    "deadline": "2025-03-25",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 50,
+    "targetUnit": "trips",
+    "deadline": "2025-06-23",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 55,
+    "targetUnit": "servings",
+    "deadline": "2025-02-02",
+    "status": "active",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Walk for short errands",
+    "category": "transport",
+    "targetValue": 55,
+    "targetUnit": "trips",
+    "deadline": "2025-08-29",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 46,
+    "targetUnit": "days",
+    "deadline": "2025-11-20",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 74,
+    "targetUnit": "miles",
+    "deadline": "2026-05-04",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 20,
+    "targetUnit": "kwh",
+    "deadline": "2025-07-16",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Install solar panels",
+    "category": "energy",
+    "targetValue": 92,
+    "targetUnit": "panels",
+    "deadline": "2025-08-04",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 8,
+    "targetUnit": "servings",
+    "deadline": "2026-03-12",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 70,
+    "targetUnit": "hours",
+    "deadline": "2025-12-27",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 46,
+    "targetUnit": "devices",
+    "deadline": "2025-06-11",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 63,
+    "targetUnit": "pounds",
+    "deadline": "2025-02-07",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 99,
+    "targetUnit": "days",
+    "deadline": "2026-02-26",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 50,
+    "targetUnit": "days",
+    "deadline": "2025-06-20",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 68,
+    "targetUnit": "trips",
+    "deadline": "2026-01-09",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 62,
+    "targetUnit": "devices",
+    "deadline": "2026-04-25",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Walk for short errands",
+    "category": "transport",
+    "targetValue": 13,
+    "targetUnit": "trips",
+    "deadline": "2025-04-04",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 73,
+    "targetUnit": "hours",
+    "deadline": "2025-01-14",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 79,
+    "targetUnit": "servings",
+    "deadline": "2026-01-06",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Install solar panels",
+    "category": "energy",
+    "targetValue": 55,
+    "targetUnit": "panels",
+    "deadline": "2025-12-09",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 32,
+    "targetUnit": "hours",
+    "deadline": "2025-09-19",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 48,
+    "targetUnit": "days",
+    "deadline": "2025-01-24",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 38,
+    "targetUnit": "pounds",
+    "deadline": "2025-11-16",
+    "status": "active",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 44,
+    "targetUnit": "servings",
+    "deadline": "2025-08-03",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 53,
+    "targetUnit": "degrees",
+    "deadline": "2026-05-12",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 83,
+    "targetUnit": "miles",
+    "deadline": "2025-12-10",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 36,
+    "targetUnit": "meals",
+    "deadline": "2025-03-26",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 46,
+    "targetUnit": "miles",
+    "deadline": "2025-08-11",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 91,
+    "targetUnit": "days",
+    "deadline": "2025-05-05",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 99,
+    "targetUnit": "meals",
+    "deadline": "2026-03-22",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 31,
+    "targetUnit": "servings",
+    "deadline": "2025-08-18",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 80,
+    "targetUnit": "bulbs",
+    "deadline": "2025-06-14",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 22,
+    "targetUnit": "devices",
+    "deadline": "2026-01-22",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 34,
+    "targetUnit": "trips",
+    "deadline": "2026-05-31",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 13,
+    "targetUnit": "items",
+    "deadline": "2026-06-05",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 85,
+    "targetUnit": "hours",
+    "deadline": "2026-05-14",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Install solar panels",
+    "category": "energy",
+    "targetValue": 26,
+    "targetUnit": "panels",
+    "deadline": "2025-10-16",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 72,
+    "targetUnit": "degrees",
+    "deadline": "2025-01-23",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 29,
+    "targetUnit": "trips",
+    "deadline": "2025-04-04",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 53,
+    "targetUnit": "meals",
+    "deadline": "2025-10-27",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 83,
+    "targetUnit": "hours",
+    "deadline": "2025-07-09",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 67,
+    "targetUnit": "loads",
+    "deadline": "2025-07-08",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 61,
+    "targetUnit": "days",
+    "deadline": "2026-05-05",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 96,
+    "targetUnit": "trips",
+    "deadline": "2025-12-22",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 97,
+    "targetUnit": "days",
+    "deadline": "2026-05-16",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 98,
+    "targetUnit": "trips",
+    "deadline": "2026-01-31",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Install solar panels",
+    "category": "energy",
+    "targetValue": 63,
+    "targetUnit": "panels",
+    "deadline": "2025-10-01",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 6,
+    "targetUnit": "bulbs",
+    "deadline": "2025-09-07",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 31,
+    "targetUnit": "trips",
+    "deadline": "2026-02-14",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 75,
+    "targetUnit": "days",
+    "deadline": "2026-04-20",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 50,
+    "targetUnit": "kwh",
+    "deadline": "2025-06-17",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Try meatless Mondays",
+    "category": "diet",
+    "targetValue": 11,
+    "targetUnit": "weeks",
+    "deadline": "2026-03-07",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 70,
+    "targetUnit": "devices",
+    "deadline": "2025-08-22",
+    "status": "active",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 71,
+    "targetUnit": "servings",
+    "deadline": "2025-07-14",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 71,
+    "targetUnit": "meals",
+    "deadline": "2025-01-08",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 38,
+    "targetUnit": "trips",
+    "deadline": "2026-05-08",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 53,
+    "targetUnit": "miles",
+    "deadline": "2026-06-07",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 48,
+    "targetUnit": "days",
+    "deadline": "2025-07-05",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 66,
+    "targetUnit": "bulbs",
+    "deadline": "2026-02-18",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 83,
+    "targetUnit": "servings",
+    "deadline": "2025-08-26",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Try meatless Mondays",
+    "category": "diet",
+    "targetValue": 34,
+    "targetUnit": "weeks",
+    "deadline": "2025-06-02",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 35,
+    "targetUnit": "servings",
+    "deadline": "2026-06-04",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Buy local produce",
+    "category": "diet",
+    "targetValue": 35,
+    "targetUnit": "purchases",
+    "deadline": "2025-03-05",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 10,
+    "targetUnit": "bulbs",
+    "deadline": "2026-05-07",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 58,
+    "targetUnit": "miles",
+    "deadline": "2026-05-22",
+    "status": "active",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 55,
+    "targetUnit": "servings",
+    "deadline": "2025-06-02",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 75,
+    "targetUnit": "trips",
+    "deadline": "2025-09-09",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 5,
+    "targetUnit": "trips",
+    "deadline": "2026-01-20",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 27,
+    "targetUnit": "devices",
+    "deadline": "2025-08-18",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 77,
+    "targetUnit": "kwh",
+    "deadline": "2026-02-20",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 51,
+    "targetUnit": "items",
+    "deadline": "2025-05-19",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 29,
+    "targetUnit": "degrees",
+    "deadline": "2026-06-21",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 16,
+    "targetUnit": "devices",
+    "deadline": "2025-12-16",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 62,
+    "targetUnit": "hours",
+    "deadline": "2025-05-23",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 90,
+    "targetUnit": "bulbs",
+    "deadline": "2025-07-13",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 99,
+    "targetUnit": "days",
+    "deadline": "2025-12-28",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 84,
+    "targetUnit": "flights",
+    "deadline": "2025-12-10",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 28,
+    "targetUnit": "servings",
+    "deadline": "2026-06-07",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 90,
+    "targetUnit": "flights",
+    "deadline": "2025-11-20",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 68,
+    "targetUnit": "meals",
+    "deadline": "2025-05-13",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 17,
+    "targetUnit": "servings",
+    "deadline": "2025-12-21",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 77,
+    "targetUnit": "trips",
+    "deadline": "2025-01-19",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 23,
+    "targetUnit": "servings",
+    "deadline": "2025-03-26",
+    "status": "active",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 45,
+    "targetUnit": "miles",
+    "deadline": "2025-08-27",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 6,
+    "targetUnit": "flights",
+    "deadline": "2026-03-22",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 46,
+    "targetUnit": "degrees",
+    "deadline": "2026-02-04",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Buy local produce",
+    "category": "diet",
+    "targetValue": 60,
+    "targetUnit": "purchases",
+    "deadline": "2025-03-26",
+    "status": "active",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 31,
+    "targetUnit": "trips",
+    "deadline": "2025-03-22",
+    "status": "active",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 35,
+    "targetUnit": "miles",
+    "deadline": "2026-03-13",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Try meatless Mondays",
+    "category": "diet",
+    "targetValue": 62,
+    "targetUnit": "weeks",
+    "deadline": "2026-04-27",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 86,
+    "targetUnit": "kwh",
+    "deadline": "2025-09-29",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 77,
+    "targetUnit": "servings",
+    "deadline": "2026-06-03",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 48,
+    "targetUnit": "days",
+    "deadline": "2025-01-25",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 66,
+    "targetUnit": "hours",
+    "deadline": "2025-12-24",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 56,
+    "targetUnit": "servings",
+    "deadline": "2025-06-27",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 12,
+    "targetUnit": "pounds",
+    "deadline": "2026-06-06",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 82,
+    "targetUnit": "miles",
+    "deadline": "2025-03-20",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 75,
+    "targetUnit": "days",
+    "deadline": "2025-03-24",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 26,
+    "targetUnit": "kwh",
+    "deadline": "2026-04-15",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 59,
+    "targetUnit": "miles",
+    "deadline": "2025-05-04",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Buy local produce",
+    "category": "diet",
+    "targetValue": 80,
+    "targetUnit": "purchases",
+    "deadline": "2026-02-02",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 80,
+    "targetUnit": "hours",
+    "deadline": "2025-01-14",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 34,
+    "targetUnit": "trips",
+    "deadline": "2025-11-30",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 9,
+    "targetUnit": "devices",
+    "deadline": "2026-06-02",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 26,
+    "targetUnit": "meals",
+    "deadline": "2026-05-04",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Switch to electric vehicle",
+    "category": "transport",
+    "targetValue": 39,
+    "targetUnit": "miles",
+    "deadline": "2025-08-16",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Buy local produce",
+    "category": "diet",
+    "targetValue": 47,
+    "targetUnit": "purchases",
+    "deadline": "2025-07-08",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 50,
+    "targetUnit": "kwh",
+    "deadline": "2025-09-29",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 39,
+    "targetUnit": "pounds",
+    "deadline": "2025-05-17",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 45,
+    "targetUnit": "trips",
+    "deadline": "2026-06-05",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 40,
+    "targetUnit": "meals",
+    "deadline": "2026-04-07",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 76,
+    "targetUnit": "flights",
+    "deadline": "2026-04-03",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 94,
+    "targetUnit": "trips",
+    "deadline": "2025-06-01",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 73,
+    "targetUnit": "devices",
+    "deadline": "2025-09-09",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 64,
+    "targetUnit": "miles",
+    "deadline": "2025-06-22",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 89,
+    "targetUnit": "hours",
+    "deadline": "2026-05-25",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 43,
+    "targetUnit": "trips",
+    "deadline": "2025-06-03",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 43,
+    "targetUnit": "devices",
+    "deadline": "2025-09-11",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 43,
+    "targetUnit": "pounds",
+    "deadline": "2025-12-15",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Try meatless Mondays",
+    "category": "diet",
+    "targetValue": 72,
+    "targetUnit": "weeks",
+    "deadline": "2025-11-29",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 42,
+    "targetUnit": "days",
+    "deadline": "2025-03-01",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Reduce food waste",
+    "category": "diet",
+    "targetValue": 81,
+    "targetUnit": "pounds",
+    "deadline": "2026-04-05",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 32,
+    "targetUnit": "bulbs",
+    "deadline": "2025-08-01",
+    "status": "active",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 44,
+    "targetUnit": "miles",
+    "deadline": "2025-06-23",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 85,
+    "targetUnit": "bulbs",
+    "deadline": "2025-05-29",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Try meatless Mondays",
+    "category": "diet",
+    "targetValue": 45,
+    "targetUnit": "weeks",
+    "deadline": "2025-05-03",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 75,
+    "targetUnit": "flights",
+    "deadline": "2026-03-26",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 20,
+    "targetUnit": "hours",
+    "deadline": "2026-04-26",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 78,
+    "targetUnit": "meals",
+    "deadline": "2025-08-02",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 17,
+    "targetUnit": "servings",
+    "deadline": "2026-06-29",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 39,
+    "targetUnit": "trips",
+    "deadline": "2026-02-28",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Walk for short errands",
+    "category": "transport",
+    "targetValue": 19,
+    "targetUnit": "trips",
+    "deadline": "2025-09-10",
+    "status": "completed",
+    "note": "small steps matter"
+  },
+  {
+    "title": "Try meatless Mondays",
+    "category": "diet",
+    "targetValue": 13,
+    "targetUnit": "weeks",
+    "deadline": "2026-03-15",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 35,
+    "targetUnit": "trips",
+    "deadline": "2025-07-13",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 55,
+    "targetUnit": "trips",
+    "deadline": "2025-01-24",
+    "status": "active",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 98,
+    "targetUnit": "servings",
+    "deadline": "2025-11-15",
+    "status": "completed",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Install solar panels",
+    "category": "energy",
+    "targetValue": 25,
+    "targetUnit": "panels",
+    "deadline": "2026-01-05",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 12,
+    "targetUnit": "hours",
+    "deadline": "2025-05-14",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 77,
+    "targetUnit": "servings",
+    "deadline": "2025-05-03",
+    "status": "active",
+    "note": "monthly target"
+  },
+  {
+    "title": "Lower electricity usage",
+    "category": "energy",
+    "targetValue": 52,
+    "targetUnit": "kwh",
+    "deadline": "2025-04-04",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 37,
+    "targetUnit": "servings",
+    "deadline": "2025-07-25",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 75,
+    "targetUnit": "meals",
+    "deadline": "2025-12-06",
+    "status": "completed",
+    "note": "trying something new"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 97,
+    "targetUnit": "servings",
+    "deadline": "2026-04-28",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 8,
+    "targetUnit": "servings",
+    "deadline": "2025-03-17",
+    "status": "completed",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 55,
+    "targetUnit": "days",
+    "deadline": "2025-09-06",
+    "status": "active",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 56,
+    "targetUnit": "devices",
+    "deadline": "2025-11-11",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Avoid processed foods",
+    "category": "diet",
+    "targetValue": 97,
+    "targetUnit": "days",
+    "deadline": "2025-12-02",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 67,
+    "targetUnit": "items",
+    "deadline": "2025-10-24",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 53,
+    "targetUnit": "trips",
+    "deadline": "2025-05-09",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Eat more plant-based meals",
+    "category": "diet",
+    "targetValue": 89,
+    "targetUnit": "meals",
+    "deadline": "2025-10-18",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 61,
+    "targetUnit": "bulbs",
+    "deadline": "2026-06-15",
+    "status": "active",
+    "note": "gradual improvement"
+  },
+  {
+    "title": "Use public transit",
+    "category": "transport",
+    "targetValue": 46,
+    "targetUnit": "trips",
+    "deadline": "2025-12-22",
+    "status": "active",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Wash clothes in cold water",
+    "category": "energy",
+    "targetValue": 36,
+    "targetUnit": "loads",
+    "deadline": "2025-05-21",
+    "status": "active",
+    "note": "building a habit"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 69,
+    "targetUnit": "items",
+    "deadline": "2026-06-08",
+    "status": "completed",
+    "note": "semester goal"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 39,
+    "targetUnit": "devices",
+    "deadline": "2025-11-03",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Reduce water heater temperature",
+    "category": "energy",
+    "targetValue": 8,
+    "targetUnit": "degrees",
+    "deadline": "2026-05-31",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Install solar panels",
+    "category": "energy",
+    "targetValue": 67,
+    "targetUnit": "panels",
+    "deadline": "2025-11-10",
+    "status": "completed",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 68,
+    "targetUnit": "days",
+    "deadline": "2025-07-01",
+    "status": "completed",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Take the train instead of driving",
+    "category": "transport",
+    "targetValue": 64,
+    "targetUnit": "trips",
+    "deadline": "2025-07-24",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Try meatless Mondays",
+    "category": "diet",
+    "targetValue": 28,
+    "targetUnit": "weeks",
+    "deadline": "2026-02-24",
+    "status": "active",
+    "note": "weekly challenge"
+  },
+  {
+    "title": "Reduce driving miles",
+    "category": "transport",
+    "targetValue": 78,
+    "targetUnit": "miles",
+    "deadline": "2025-12-18",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Switch to LED bulbs",
+    "category": "energy",
+    "targetValue": 34,
+    "targetUnit": "bulbs",
+    "deadline": "2025-03-22",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Reduce flights taken",
+    "category": "transport",
+    "targetValue": 20,
+    "targetUnit": "flights",
+    "deadline": "2025-01-30",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Reduce heating usage",
+    "category": "energy",
+    "targetValue": 29,
+    "targetUnit": "hours",
+    "deadline": "2025-12-10",
+    "status": "completed",
+    "note": "personal commitment"
+  },
+  {
+    "title": "Grow own vegetables",
+    "category": "diet",
+    "targetValue": 70,
+    "targetUnit": "items",
+    "deadline": "2026-01-20",
+    "status": "active",
+    "note": "trying something new"
+  },
+  {
+    "title": "Bike to work more often",
+    "category": "transport",
+    "targetValue": 60,
+    "targetUnit": "days",
+    "deadline": "2026-03-28",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Walk for short errands",
+    "category": "transport",
+    "targetValue": 36,
+    "targetUnit": "trips",
+    "deadline": "2025-01-02",
+    "status": "active",
+    "note": "new year resolution"
+  },
+  {
+    "title": "Reduce meat consumption",
+    "category": "diet",
+    "targetValue": 40,
+    "targetUnit": "servings",
+    "deadline": "2025-07-23",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Cut beef intake",
+    "category": "diet",
+    "targetValue": 21,
+    "targetUnit": "servings",
+    "deadline": "2025-01-17",
+    "status": "active",
+    "note": "semester goal"
+  },
+  {
+    "title": "Try meatless Mondays",
+    "category": "diet",
+    "targetValue": 11,
+    "targetUnit": "weeks",
+    "deadline": "2026-06-10",
+    "status": "completed",
+    "note": "tracking progress"
+  },
+  {
+    "title": "Unplug devices when not in use",
+    "category": "energy",
+    "targetValue": 54,
+    "targetUnit": "devices",
+    "deadline": "2025-05-24",
+    "status": "active",
+    "note": "eco-friendly swap"
+  },
+  {
+    "title": "Buy local produce",
+    "category": "diet",
+    "targetValue": 24,
+    "targetUnit": "purchases",
+    "deadline": "2026-02-14",
+    "status": "completed",
+    "note": "building a habit"
+  },
+  {
+    "title": "Use less air conditioning",
+    "category": "energy",
+    "targetValue": 83,
+    "targetUnit": "hours",
+    "deadline": "2026-02-20",
+    "status": "completed",
+    "note": "monthly target"
+  },
+  {
+    "title": "Walk for short errands",
+    "category": "transport",
+    "targetValue": 60,
+    "targetUnit": "trips",
+    "deadline": "2025-03-21",
+    "status": "completed",
+    "note": "inspired by a friend"
+  },
+  {
+    "title": "Carpool with coworkers",
+    "category": "transport",
+    "targetValue": 50,
+    "targetUnit": "days",
+    "deadline": "2025-10-12",
+    "status": "active",
+    "note": "semester goal"
+  }
+]
