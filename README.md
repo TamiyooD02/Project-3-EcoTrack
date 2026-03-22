@@ -82,6 +82,7 @@ http://localhost:5173
 ```
 ## Video Demo
 - Part 1 of Video Demo: https://www.loom.com/share/e9b72abc365944e68b67eac4ee77f7c5
+- Part 2 of Video Demo: https://www.youtube.com/watch?v=njjBO_ch11Y
 
 ## License
 MIT License - see LICENSE file for details
