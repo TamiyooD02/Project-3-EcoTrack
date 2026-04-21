@@ -8,6 +8,10 @@ function ActivityList({ onEdit, refreshTrigger }) {
   //starts as an empty array until the fetch is done
   const [activities, setActivities] = useState([]);
 
+  // tracks what category users want to filter by
+  //all wull show everything
+  const [filterCategory, setFilterCategory] = useState('all');
+
   //fetch activities when the component first loads
   useEffect(
     function () {
@@ -30,6 +34,11 @@ function ActivityList({ onEdit, refreshTrigger }) {
 
   // this function runs when user clicks the delete button on an activity
   function handleDelete(id) {
+    // show a browser confirm dialog before delete
+    const confirmed = window.confirm('Are you sure you want to delete this activity?');
+    // if the user clicked Cancel, stop here and don't delete
+    if (!confirmed) return;
+
     // send a DELETE request to the backend with the activity id
     fetch('/api/activities/' + id, {
       method: 'DELETE',
@@ -55,12 +64,34 @@ function ActivityList({ onEdit, refreshTrigger }) {
       });
   }
 
+  // filter the activities based on the selected category
+  // if filterCategory is 'all', show everything
+  // otherwise only show activities that match the selected category
+  const filteredActivities = activities.filter(function (activity) {
+    if (filterCategory === 'all') return true;
+    return activity.category === filterCategory;
+  });
+
   return (
     <div className="activity-list">
       <h2>Activity History</h2>
 
+      <div className="filter-bar">
+        <label htmlFor="category-filter">Filter by category: </label>
+        <select
+          id="category-filter"
+          value={filterCategory}
+          onChange={function (e) { setFilterCategory(e.target.value); }}
+        >
+          <option value="all">All</option>
+          <option value="transport">Transport</option>
+          <option value="diet">Diet</option>
+          <option value="energy">Energy</option>
+        </select>
+      </div>
+      
       <ul>
-        {activities.map(function (activity) {
+        {filteredActivities.map(function (activity) {
           return (
             // each list item needs a unique key so react can keep track of it
             <li key={activity._id}>
@@ -76,6 +107,7 @@ function ActivityList({ onEdit, refreshTrigger }) {
                 onClick={function () {
                   onEdit(activity);
                 }}
+                aria-label={'Edit activity: ' + activity.type}
               >
                 Edit
               </button>
@@ -84,6 +116,7 @@ function ActivityList({ onEdit, refreshTrigger }) {
                 onClick={function () {
                   handleDelete(activity._id);
                 }}
+                aria-label={'Delete activity: ' + activity.type}
               >
                 Delete
               </button>
@@ -91,6 +124,10 @@ function ActivityList({ onEdit, refreshTrigger }) {
           );
         })}
       </ul>
+
+      {filteredActivities.length === 0 && (
+        <p className="no-results">No activities found for this category.</p>
+      )}
     </div>
   );
 }

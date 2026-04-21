@@ -93,46 +93,56 @@ function AppContent() {
 
   return (
     <div>
-      <h1>EcoTrack</h1>
+      <header className="app-header">
+        <h1>EcoTrack</h1>
 
-      <div className="navbar">
-        <button
-          onClick={function () {
-            setCurrentView('activities');
-          }}
-        >
-          Log Activities
-        </button>
-        <button
-          onClick={function () {
-            setCurrentView('goals');
-          }}
-        >
-          Create Goals
-        </button>
-        <span className="welcome-text">Welcome, {user.name}!</span>
-        <button onClick={handleLogout}>Logout</button>
-      </div>
+        <nav className="navbar">
+          <button
+            onClick={function () {
+              setCurrentView('activities');
+            }}
+            className={currentView === 'activities' ? 'navbar-btn active' : 'navbar-btn'}
+            disabled={currentView === 'activities'}
+            aria-current={currentView === 'activities' ? 'page' : undefined}
+          >
+            Log Activities
+          </button>
+          <button
+            onClick={function () {
+              setCurrentView('goals');
+            }}
+            className={currentView === 'goals' ? 'navbar-btn active' : 'navbar-btn'}
+            disabled={currentView === 'goals'}
+            aria-current={currentView === 'goals' ? 'page' : undefined}
+          >
+            Create Goals
+          </button>
+          <span className="welcome-text">Welcome, {user.name}!</span>
+          <button className="navbar-btn" onClick={handleLogout}>Logout</button>
+        </nav>
+      </header>
 
-      {currentView === 'activities' && (
-        <div style={{ display: 'flex', gap: '20px', padding: '20px' }}>
-          <ActivityForm
-            selectedActivity={selectedActivity}
-            onSave={handleSave}
-          />
-          <ActivityList onEdit={handleEdit} refreshTrigger={refreshTrigger} />
-        </div>
-      )}
+      <main className="app-content">
+        {currentView === 'activities' && (
+          <div className="view-container">
+            <ActivityForm
+              selectedActivity={selectedActivity}
+              onSave={handleSave}
+            />
+            <ActivityList onEdit={handleEdit} refreshTrigger={refreshTrigger} />
+          </div>
+        )}
 
-      {currentView === 'goals' && (
-        <div style={{ display: 'flex', gap: '20px', padding: '20px' }}>
-          <GoalForm selectedGoal={selectedGoal} onSave={handleGoalSave} />
-          <GoalList
-            onEdit={handleGoalEdit}
-            refreshTrigger={goalRefreshTrigger}
-          />
-        </div>
-      )}
+        {currentView === 'goals' && (
+          <div className="view-container">
+            <GoalForm selectedGoal={selectedGoal} onSave={handleGoalSave} />
+            <GoalList
+              onEdit={handleGoalEdit}
+              refreshTrigger={goalRefreshTrigger}
+            />
+          </div>
+        )}
+      </main>
     </div>
   );
 }

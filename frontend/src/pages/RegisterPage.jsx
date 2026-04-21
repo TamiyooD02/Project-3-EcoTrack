@@ -42,7 +42,7 @@ function RegisterPage({ onRegisterSuccess }) {
     <div className="register-page">
       <h2>Register</h2>
 
-      {error && <p>{error}</p>}
+      {error && <p className="error-message" role="alert">{error}</p>}
 
       <form onSubmit={handleSubmit}>
         <div>

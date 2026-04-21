@@ -1,28 +1,37 @@
 body {
   background-color: #e8f5e9;
-  font-family: Arial, sans-serif;
+  font-family: 'Nunito', Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
 
-h1 {
-  color: #2e7d32;
-  text-align: center;
-  padding: 20px;
-  margin: 0;
+.app-header {
+  display: flex;
+  align-items: center;
   background-color: #c8e6c9;
   border-bottom: 2px solid #a5d6a7;
+  padding: 0 20px;
+}
+
+.app-header h1 {
+  color: #2e7d32;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: -0.5px;
+  margin: 0;
+  padding: 14px 0;
+  flex-shrink: 0;
 }
 
 .navbar {
   display: flex;
+  align-items: center;
   gap: 10px;
   padding: 10px 20px;
-  background-color: #c8e6c9;
-  border-bottom: 1px solid #a5d6a7;
+  margin-left: auto;
 }
 
-.navbar button {
+.navbar .navbar-btn {
   padding: 8px 16px;
   background-color: #2e7d32;
   color: white;
@@ -32,13 +41,36 @@ h1 {
   font-size: 14px;
 }
 
-.navbar button:hover {
+.navbar .navbar-btn:hover {
   background-color: #1b5e20;
+}
+
+.navbar .navbar-btn.active,
+.navbar .navbar-btn:disabled {
+  background-color: #a5d6a7;
+  color: #555;
+  cursor: default;
+  opacity: 0.8;
 }
 
 .welcome-text {
   margin-left: auto;
   font-size: 14px;
   align-self: center;
-  color: #2e7d32;
+  color: #1b5e20;
+}
+
+.app-content {
+  padding: 20px;
+}
+
+.view-container {
+  display: flex;
+  gap: 20px;
+}
+
+/* make sure keyboard users can always see which element is focused */
+*:focus-visible {
+  outline: 2px solid #2e7d32;
+  outline-offset: 2px;
 }

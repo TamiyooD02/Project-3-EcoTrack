@@ -12,6 +12,9 @@ function ActivityForm({ selectedActivity, onSave }) {
   const [date, setDate] = useState('');
   const [note, setNote] = useState('');
 
+  // stores the popup message to show after saving
+  const [confirmMessage, setConfirmMessage] = useState('')
+
   // when selectedActivity changes it means the user clicked edit
   useEffect(
     function () {
@@ -34,6 +37,15 @@ function ActivityForm({ selectedActivity, onSave }) {
     },
     [selectedActivity],
   );
+
+  //helper function that shows a message then hides it after 3 sec
+  function showConfirm(message) {
+    setConfirmMessage(message);
+    // after 3 seconds, clear the message so it disappears
+    setTimeout(function () {
+      setConfirmMessage('');
+    }, 3000);
+  }
 
   // this function runs when the user clicks the save button
   function handleSubmit(e) {
@@ -66,6 +78,7 @@ function ActivityForm({ selectedActivity, onSave }) {
         })
         .then(function () {
           // tell the parent component to save
+          showConfirm('Activity updated successfully!');
           onSave();
         });
     } else {
@@ -81,20 +94,32 @@ function ActivityForm({ selectedActivity, onSave }) {
           return response.json();
         })
         .then(function () {
-          // tell the parent component to save
+          setType('');
+          setCategory('');
+          setValue('');
+          setUnit('');
+          setDate('');
+          setNote('');
+          showConfirm('Activity saved successfully!');
           onSave();
-        });
-    }
+    });
+  }
+
   }
 
   return (
     <div className="activity-form">
       <h2>{selectedActivity ? 'Edit Activity' : 'Log New Activity'}</h2>
+      
+      {confirmMessage && (
+        <p className="confirm-message">{confirmMessage}</p>
+      )}
 
       <form onSubmit={handleSubmit}>
         <div>
-          <label>Type: </label>
+            <label htmlFor="activity-type">Type: </label>
           <input
+            id="activity-type"
             type="text"
             placeholder="e.g. driving, flying, beef"
             value={type}
@@ -105,20 +130,25 @@ function ActivityForm({ selectedActivity, onSave }) {
         </div>
 
         <div>
-          <label>Category: </label>
-          <input
-            type="text"
-            placeholder="e.g. transport, diet, energy"
+          <label htmlFor="activity-category">Category: </label>
+          <select
+            id="activity-category"
             value={category}
             onChange={function (e) {
               setCategory(e.target.value);
             }}
-          />
+          >
+              <option value=""> select category </option>
+              <option value="transport">Transport</option>
+              <option value="diet">Diet</option>
+              <option value="energy">Energy</option>
+          </select>    
         </div>
 
         <div>
-          <label>Value: </label>
+          <label htmlFor="activity-value">Value: </label>
           <input
+            id="activity-value"
             type="number"
             placeholder="e.g. 30"
             value={value}
@@ -129,8 +159,9 @@ function ActivityForm({ selectedActivity, onSave }) {
         </div>
 
         <div>
-          <label>Unit: </label>
+          <label htmlFor="activity-unit">Unit: </label>
           <input
+            id="activity-unit"
             type="text"
             placeholder="e.g. miles, servings"
             value={unit}
@@ -141,8 +172,9 @@ function ActivityForm({ selectedActivity, onSave }) {
         </div>
 
         <div>
-          <label>Date: </label>
+          <label htmlFor="activity-date">Date: </label>
           <input
+            id="activity-date"
             type="date"
             value={date}
             onChange={function (e) {
@@ -152,8 +184,9 @@ function ActivityForm({ selectedActivity, onSave }) {
         </div>
 
         <div>
-          <label>Note: </label>
+          <label htmlFor="activity-note">Note: </label>
           <input
+            id="activity-note"
             type="text"
             placeholder="e.g. drove to class"
             value={note}
